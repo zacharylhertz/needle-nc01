@@ -1,0 +1,26 @@
+county,pres2024_margin,pres_lean,area,ballots,black_share,black_cut,race,age65_share,age65_cut,age
+BEAUFORT,-31.04,Strong for Trump,Counties new to NC-1,13000,0.2072,0.3793,Fewer Black voters,0.5558,0.5182,More older voters
+BERTIE,15.67,Strong for Harris,Counties from the old NC-1,4231,0.6178,0.3793,More Black voters,0.5606,0.5182,More older voters
+CAMDEN,-50.67,Strong for Trump,Counties from the old NC-1,2555,0.162,0.3793,Fewer Black voters,0.4501,0.5182,More younger voters
+CARTERET,-42.99,Strong for Trump,Counties new to NC-1,24058,0.031,0.3793,Fewer Black voters,0.5361,0.5182,More older voters
+CHOWAN,-22.4,Strong for Trump,Counties from the old NC-1,4210,0.2451,0.3793,Fewer Black voters,0.5527,0.5182,More older voters
+CRAVEN,-20.41,Strong for Trump,Counties new to NC-1,28477,0.196,0.3793,Fewer Black voters,0.5242,0.5182,More older voters
+CURRITUCK,-47.81,Strong for Trump,Counties from the old NC-1,5830,0.0738,0.3793,Fewer Black voters,0.507,0.5182,More younger voters
+DARE,-18.73,Strong for Trump,Counties new to NC-1,12679,0.0177,0.3793,Fewer Black voters,0.5182,0.5182,More older voters
+EDGECOMBE,22.68,Strong for Harris,Counties from the old NC-1,12345,0.6241,0.3793,More Black voters,0.4837,0.5182,More younger voters
+GATES,-21.64,Strong for Trump,Counties from the old NC-1,2292,0.4372,0.3793,More Black voters,0.5031,0.5182,More younger voters
+GRANVILLE,27.22,Strong for Harris,Counties from the old NC-1,3417,0.4636,0.3793,More Black voters,0.475,0.5182,More younger voters
+HALIFAX,17.68,Strong for Harris,Counties from the old NC-1,11105,0.5569,0.3793,More Black voters,0.5034,0.5182,More younger voters
+HERTFORD,26.72,Strong for Harris,Counties from the old NC-1,4636,0.6674,0.3793,More Black voters,0.5362,0.5182,More older voters
+HYDE,-22.06,Strong for Trump,Counties new to NC-1,852,0.2136,0.3793,Fewer Black voters,0.5176,0.5182,More younger voters
+MARTIN,-10.31,More competitive,Counties from the old NC-1,5234,0.4499,0.3793,More Black voters,0.5071,0.5182,More younger voters
+NASH,-1.76,More competitive,Counties from the old NC-1,28733,0.4328,0.3793,More Black voters,0.4256,0.5182,More younger voters
+NORTHAMPTON,14.48,More competitive,Counties from the old NC-1,4215,0.5917,0.3793,More Black voters,0.586,0.5182,More older voters
+ONSLOW,-44.42,Strong for Trump,Counties new to NC-1,1552,0.0193,0.3793,Fewer Black voters,0.5064,0.5182,More younger voters
+PAMLICO,-32.01,Strong for Trump,Counties new to NC-1,4136,0.1485,0.3793,Fewer Black voters,0.6216,0.5182,More older voters
+PASQUOTANK,-4.86,More competitive,Counties from the old NC-1,9809,0.3793,0.3793,More Black voters,0.4812,0.5182,More younger voters
+PERQUIMANS,-39.25,Strong for Trump,Counties from the old NC-1,3756,0.1747,0.3793,Fewer Black voters,0.6041,0.5182,More older voters
+TYRRELL,-21.46,Strong for Trump,Counties from the old NC-1,793,0.2636,0.3793,Fewer Black voters,0.5284,0.5182,More older voters
+VANCE,13.33,More competitive,Counties from the old NC-1,10219,0.5177,0.3793,More Black voters,0.4732,0.5182,More younger voters
+WARREN,18.94,Strong for Harris,Counties from the old NC-1,5103,0.534,0.3793,More Black voters,0.5322,0.5182,More older voters
+WASHINGTON,6.22,More competitive,Counties from the old NC-1,2900,0.5345,0.3793,More Black voters,0.56,0.5182,More older voters

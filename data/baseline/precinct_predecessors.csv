@@ -1,0 +1,11 @@
+county,unit_2026,unit_2024,weight,stayer_share,source
+VANCE,CH,EH1,1,0.944,same-voter precinct flow in 2024 and 2026 voter files; name CENTRAL HENDERSON
+VANCE,CH,NH1,1,0.936,same-voter precinct flow in 2024 and 2026 voter files; name CENTRAL HENDERSON
+VANCE,SH,SH1,1,0.925,same-voter precinct flow in 2024 and 2026 voter files; name SOUTH HENDERSON
+VANCE,SH,SH2,1,0.943,same-voter precinct flow in 2024 and 2026 voter files; name SOUTH HENDERSON
+VANCE,SH,HTOP,1,0.945,same-voter precinct flow in 2024 and 2026 voter files; name SOUTH HENDERSON
+VANCE,TWN,NH,1,0.979,same-voter precinct flow in 2024 and 2026 voter files; name TOWNSVILLE
+HALIFAX,ENF,ENF1,1,0.985,same-voter precinct flow in 2024 and 2026 voter files; name ENFIELD 1 to ENFIELD
+HALIFAX,ENF,ENF 2,1,0.996,same-voter precinct flow in 2024 and 2026 voter files; name ENFIELD 2 to ENFIELD
+HALIFAX,RR1-4,RR1-2,1,0.969,same-voter precinct flow in 2024 and 2026 voter files; name ROANOKE RAPIDS 1-2 to 1-4
+HALIFAX,RR1-4,RR3-4,1,0.972,same-voter precinct flow in 2024 and 2026 voter files; name ROANOKE RAPIDS 3-4 to 1-4

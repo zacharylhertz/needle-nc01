@@ -1,0 +1,9 @@
+.DS_Store
+.Rhistory
+data/live/*.tmp
+data/live/.loop.lock/
+data/live/loop.log
+data/live/fetch_state.json
+data/live/rule_state.rds
+data/live/rule_log.csv
+data/live/call_signoff.json

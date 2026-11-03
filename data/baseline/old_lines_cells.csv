@@ -1,0 +1,1409 @@
+county,unit,real,method,w,w_pseudo,b_old,T24,match
+BERTIE,ABSENTEE,N,Absentee by Mail,1,,43.558,163,matched
+BERTIE,C1,Y,Absentee by Mail,1,,43.558,0,matched
+BERTIE,C2,Y,Absentee by Mail,1,,43.558,0,matched
+BERTIE,EV-LOB,N,Absentee by Mail,1,,43.558,0,matched
+BERTIE,EV-LW,N,Absentee by Mail,1,,43.558,0,matched
+BERTIE,EV-POW,N,Absentee by Mail,1,,43.558,0,matched
+BERTIE,IW,Y,Absentee by Mail,1,,43.558,0,matched
+BERTIE,M1,Y,Absentee by Mail,1,,43.558,0,matched
+BERTIE,M2,Y,Absentee by Mail,1,,43.558,0,matched
+BERTIE,MH,Y,Absentee by Mail,1,,43.558,0,matched
+BERTIE,PROVISIONAL,N,Absentee by Mail,1,,43.558,0,matched
+BERTIE,RX,Y,Absentee by Mail,1,,43.558,0,matched
+BERTIE,SN,Y,Absentee by Mail,1,,43.558,0,matched
+BERTIE,TRANSFER,N,Absentee by Mail,1,,43.558,0,matched
+BERTIE,W1,Y,Absentee by Mail,1,,43.558,0,matched
+BERTIE,W2,Y,Absentee by Mail,1,,43.558,0,matched
+BERTIE,WD,Y,Absentee by Mail,1,,43.558,0,matched
+BERTIE,WH,Y,Absentee by Mail,1,,43.558,0,matched
+BERTIE,ABSENTEE,N,Early Voting,1,,16.715,0,matched
+BERTIE,C1,Y,Early Voting,1,,16.715,0,matched
+BERTIE,C2,Y,Early Voting,1,,16.715,0,matched
+BERTIE,EV-LOB,N,Early Voting,1,,10.563,4014,matched
+BERTIE,EV-LW,N,Early Voting,1,,56.324,925,matched
+BERTIE,EV-POW,N,Early Voting,1,,9.466,1648,matched
+BERTIE,IW,Y,Early Voting,1,,16.715,0,matched
+BERTIE,M1,Y,Early Voting,1,,16.715,0,matched
+BERTIE,M2,Y,Early Voting,1,,16.715,0,matched
+BERTIE,MH,Y,Early Voting,1,,16.715,0,matched
+BERTIE,PROVISIONAL,N,Early Voting,1,,16.715,0,matched
+BERTIE,RX,Y,Early Voting,1,,16.715,0,matched
+BERTIE,SN,Y,Early Voting,1,,16.715,0,matched
+BERTIE,TRANSFER,N,Early Voting,1,,16.715,0,matched
+BERTIE,W1,Y,Early Voting,1,,16.715,0,matched
+BERTIE,W2,Y,Early Voting,1,,16.715,0,matched
+BERTIE,WD,Y,Early Voting,1,,16.715,0,matched
+BERTIE,WH,Y,Early Voting,1,,16.715,0,matched
+BERTIE,ABSENTEE,N,Election Day,1,,10.298,0,matched
+BERTIE,C1,Y,Election Day,1,,-28.866,194,matched
+BERTIE,C2,Y,Election Day,1,,51.22,164,matched
+BERTIE,EV-LOB,N,Election Day,1,,10.298,0,matched
+BERTIE,EV-LW,N,Election Day,1,,10.298,0,matched
+BERTIE,EV-POW,N,Election Day,1,,10.298,0,matched
+BERTIE,IW,Y,Election Day,1,,78.889,90,matched
+BERTIE,M1,Y,Election Day,1,,-24.561,171,matched
+BERTIE,M2,Y,Election Day,1,,10.213,235,matched
+BERTIE,MH,Y,Election Day,1,,12.353,170,matched
+BERTIE,PROVISIONAL,N,Election Day,1,,10.298,0,matched
+BERTIE,RX,Y,Election Day,1,,55.466,247,matched
+BERTIE,SN,Y,Election Day,1,,56.198,121,matched
+BERTIE,TRANSFER,N,Election Day,1,,10.298,0,matched
+BERTIE,W1,Y,Election Day,1,,40.509,432,matched
+BERTIE,W2,Y,Election Day,1,,-94.737,247,matched
+BERTIE,WD,Y,Election Day,1,,56.044,91,matched
+BERTIE,WH,Y,Election Day,1,,-24.885,217,matched
+BERTIE,ABSENTEE,N,Provisional,1,,38.596,0,matched
+BERTIE,C1,Y,Provisional,1,,38.596,0,matched
+BERTIE,C2,Y,Provisional,1,,38.596,0,matched
+BERTIE,EV-LOB,N,Provisional,1,,38.596,0,matched
+BERTIE,EV-LW,N,Provisional,1,,38.596,0,matched
+BERTIE,EV-POW,N,Provisional,1,,38.596,0,matched
+BERTIE,IW,Y,Provisional,1,,38.596,0,matched
+BERTIE,M1,Y,Provisional,1,,38.596,0,matched
+BERTIE,M2,Y,Provisional,1,,38.596,0,matched
+BERTIE,MH,Y,Provisional,1,,38.596,0,matched
+BERTIE,PROVISIONAL,N,Provisional,1,,38.596,57,matched
+BERTIE,RX,Y,Provisional,1,,38.596,0,matched
+BERTIE,SN,Y,Provisional,1,,38.596,0,matched
+BERTIE,TRANSFER,N,Provisional,1,,38.596,0,matched
+BERTIE,W1,Y,Provisional,1,,38.596,0,matched
+BERTIE,W2,Y,Provisional,1,,38.596,0,matched
+BERTIE,WD,Y,Provisional,1,,38.596,0,matched
+BERTIE,WH,Y,Provisional,1,,38.596,0,matched
+CAMDEN,CH,Y,Absentee by Mail,1,,-9.231,0,matched
+CAMDEN,SH,Y,Absentee by Mail,1,,-9.231,0,matched
+CAMDEN,SM,Y,Absentee by Mail,1,,-9.231,0,matched
+CAMDEN,CH,Y,Early Voting,1,,-49.044,0,matched
+CAMDEN,SH,Y,Early Voting,1,,-49.044,0,matched
+CAMDEN,SM,Y,Early Voting,1,,-49.044,0,matched
+CAMDEN,CH,Y,Election Day,1,,-50.316,475,matched
+CAMDEN,SH,Y,Election Day,1,,-72.428,486,matched
+CAMDEN,SM,Y,Election Day,1,,-56.62,793,matched
+CAMDEN,CH,Y,Provisional,1,,-50,0,matched
+CAMDEN,SH,Y,Provisional,1,,-50,0,matched
+CAMDEN,SM,Y,Provisional,1,,-50,0,matched
+CHOWAN,1,Y,Absentee by Mail,1,,29.412,51,matched
+CHOWAN,2,Y,Absentee by Mail,1,,12.162,74,matched
+CHOWAN,3,Y,Absentee by Mail,1,,-18.421,38,matched
+CHOWAN,4,Y,Absentee by Mail,1,,36.842,19,matched
+CHOWAN,5,Y,Absentee by Mail,1,,9.251,3,matched
+CHOWAN,6,Y,Absentee by Mail,1,,0,42,matched
+CHOWAN,1,Y,Early Voting,1,,14.909,1100,matched
+CHOWAN,2,Y,Early Voting,1,,-17.039,1925,matched
+CHOWAN,3,Y,Early Voting,1,,-66.667,912,matched
+CHOWAN,4,Y,Early Voting,1,,-17.552,433,matched
+CHOWAN,5,Y,Early Voting,1,,-63.08,474,matched
+CHOWAN,6,Y,Early Voting,1,,-24.806,903,matched
+CHOWAN,1,Y,Election Day,1,,20.574,209,matched
+CHOWAN,2,Y,Election Day,1,,8.939,358,matched
+CHOWAN,3,Y,Election Day,1,,-62.5,320,matched
+CHOWAN,4,Y,Election Day,1,,-14.948,194,matched
+CHOWAN,5,Y,Election Day,1,,-53.448,232,matched
+CHOWAN,6,Y,Election Day,1,,-29.918,244,matched
+CHOWAN,1,Y,Provisional,1,,42.857,8,matched
+CHOWAN,2,Y,Provisional,1,,42.857,6,matched
+CHOWAN,3,Y,Provisional,1,,42.857,0,matched
+CHOWAN,4,Y,Provisional,1,,42.857,2,matched
+CHOWAN,5,Y,Provisional,1,,42.857,1,matched
+CHOWAN,6,Y,Provisional,1,,42.857,4,matched
+CURRITUCK,CB,Y,Absentee by Mail,1,,7.143,28,matched
+CURRITUCK,CH,Y,Absentee by Mail,1,,-30,120,matched
+CURRITUCK,CO,Y,Absentee by Mail,1,,-13.158,38,matched
+CURRITUCK,EM,Y,Absentee by Mail,1,,-12.069,116,matched
+CURRITUCK,GW,Y,Absentee by Mail,1,,-15.247,5,matched
+CURRITUCK,IR,Y,Absentee by Mail,1,,-15.247,9,matched
+CURRITUCK,KI,Y,Absentee by Mail,1,,-43.75,32,matched
+CURRITUCK,PB,Y,Absentee by Mail,1,,-18.269,104,matched
+CURRITUCK,PP,Y,Absentee by Mail,1,,5.263,57,matched
+CURRITUCK,WH,Y,Absentee by Mail,1,,10,80,matched
+CURRITUCK,WM,Y,Absentee by Mail,1,,-23.022,139,matched
+CURRITUCK,CB,Y,Early Voting,1,,-53.191,47,matched
+CURRITUCK,CH,Y,Early Voting,1,,-57.381,2337,matched
+CURRITUCK,CO,Y,Early Voting,1,,-44.601,426,matched
+CURRITUCK,EM,Y,Early Voting,1,,-52.062,1552,matched
+CURRITUCK,GW,Y,Early Voting,1,,-40.678,59,matched
+CURRITUCK,IR,Y,Early Voting,1,,-57.187,654,matched
+CURRITUCK,KI,Y,Early Voting,1,,-56.757,185,matched
+CURRITUCK,PB,Y,Early Voting,1,,-37.043,1779,matched
+CURRITUCK,PP,Y,Early Voting,1,,-34.813,721,matched
+CURRITUCK,WH,Y,Early Voting,1,,-15.385,247,matched
+CURRITUCK,WM,Y,Early Voting,1,,-46.05,1848,matched
+CURRITUCK,CB,Y,Election Day,1,,-35,140,matched
+CURRITUCK,CH,Y,Election Day,1,,-59.841,1006,matched
+CURRITUCK,CO,Y,Election Day,1,,-42.561,289,matched
+CURRITUCK,EM,Y,Election Day,1,,-55.936,994,matched
+CURRITUCK,GW,Y,Election Day,1,,-75.622,201,matched
+CURRITUCK,IR,Y,Election Day,1,,-62.014,437,matched
+CURRITUCK,KI,Y,Election Day,1,,-65.265,642,matched
+CURRITUCK,PB,Y,Election Day,1,,-49.459,1294,matched
+CURRITUCK,PP,Y,Election Day,1,,-46.314,719,matched
+CURRITUCK,WH,Y,Election Day,1,,-6.342,473,matched
+CURRITUCK,WM,Y,Election Day,1,,-53.696,1177,matched
+CURRITUCK,CB,Y,Provisional,1,,-47.959,2,matched
+CURRITUCK,CH,Y,Provisional,1,,-46.667,15,matched
+CURRITUCK,CO,Y,Provisional,1,,-47.959,2,matched
+CURRITUCK,EM,Y,Provisional,1,,-47.059,17,matched
+CURRITUCK,GW,Y,Provisional,1,,-47.959,1,matched
+CURRITUCK,IR,Y,Provisional,1,,-47.959,8,matched
+CURRITUCK,KI,Y,Provisional,1,,-46.667,15,matched
+CURRITUCK,PB,Y,Provisional,1,,-62.5,16,matched
+CURRITUCK,PP,Y,Provisional,1,,-47.959,3,matched
+CURRITUCK,WH,Y,Provisional,1,,-47.959,2,matched
+CURRITUCK,WM,Y,Provisional,1,,-41.176,17,matched
+EDGECOMBE,0101,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,0102,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,0103,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,0104,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,0201,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,0301,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,0401,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,0501,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,0601,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,0701,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,0801,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,0901,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,1001,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,1101,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,1201,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,1202,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,1203,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,1204,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,1205,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,1301,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,1401,Y,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,ABSENTEE,N,Absentee by Mail,1,,35.729,501,matched
+EDGECOMBE,EV-BOE,N,Absentee by Mail,1,,35.729,,county_method
+EDGECOMBE,EV-PINETOPS,N,Absentee by Mail,1,,35.729,,county_method
+EDGECOMBE,EV-ROCKY MT,N,Absentee by Mail,1,,35.729,,county_method
+EDGECOMBE,PROVISIONAL,N,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,TRANSFER,N,Absentee by Mail,1,,35.729,0,matched
+EDGECOMBE,0101,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,0102,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,0103,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,0104,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,0201,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,0301,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,0401,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,0501,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,0601,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,0701,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,0801,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,0901,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,1001,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,1101,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,1201,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,1202,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,1203,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,1204,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,1205,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,1301,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,1401,Y,Early Voting,1,,24.514,0,matched
+EDGECOMBE,ABSENTEE,N,Early Voting,1,,24.514,0,matched
+EDGECOMBE,EV-BOE,N,Early Voting,1,,24.514,,county_method
+EDGECOMBE,EV-PINETOPS,N,Early Voting,1,,24.514,,county_method
+EDGECOMBE,EV-ROCKY MT,N,Early Voting,1,,24.514,,county_method
+EDGECOMBE,PROVISIONAL,N,Early Voting,1,,24.514,0,matched
+EDGECOMBE,TRANSFER,N,Early Voting,1,,24.514,0,matched
+EDGECOMBE,0101,Y,Election Day,1,,74.713,261,matched
+EDGECOMBE,0102,Y,Election Day,1,,28.647,377,matched
+EDGECOMBE,0103,Y,Election Day,1,,4.985,341,matched
+EDGECOMBE,0104,Y,Election Day,1,,9.859,284,matched
+EDGECOMBE,0201,Y,Election Day,1,,5.792,259,matched
+EDGECOMBE,0301,Y,Election Day,1,,1.887,106,matched
+EDGECOMBE,0401,Y,Election Day,1,,4,125,matched
+EDGECOMBE,0501,Y,Election Day,1,,-12.752,149,matched
+EDGECOMBE,0601,Y,Election Day,1,,38.739,222,matched
+EDGECOMBE,0701,Y,Election Day,1,,42.125,273,matched
+EDGECOMBE,0801,Y,Election Day,1,,-30.075,266,matched
+EDGECOMBE,0901,Y,Election Day,1,,-60.069,288,matched
+EDGECOMBE,1001,Y,Election Day,1,,4.029,273,matched
+EDGECOMBE,1101,Y,Election Day,1,,-47.396,192,matched
+EDGECOMBE,1201,Y,Election Day,1,,80.364,494,matched
+EDGECOMBE,1202,Y,Election Day,1,,86.555,238,matched
+EDGECOMBE,1203,Y,Election Day,1,,-4.698,447,matched
+EDGECOMBE,1204,Y,Election Day,1,,86.341,205,matched
+EDGECOMBE,1205,Y,Election Day,1,,90.909,121,matched
+EDGECOMBE,1301,Y,Election Day,1,,-55.833,240,matched
+EDGECOMBE,1401,Y,Election Day,1,,-66.518,224,matched
+EDGECOMBE,ABSENTEE,N,Election Day,1,,14.949,0,matched
+EDGECOMBE,EV-BOE,N,Election Day,1,,14.949,,county_method
+EDGECOMBE,EV-PINETOPS,N,Election Day,1,,14.949,,county_method
+EDGECOMBE,EV-ROCKY MT,N,Election Day,1,,14.949,,county_method
+EDGECOMBE,PROVISIONAL,N,Election Day,1,,14.949,0,matched
+EDGECOMBE,TRANSFER,N,Election Day,1,,14.949,0,matched
+EDGECOMBE,0101,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,0102,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,0103,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,0104,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,0201,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,0301,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,0401,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,0501,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,0601,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,0701,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,0801,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,0901,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,1001,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,1101,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,1201,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,1202,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,1203,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,1204,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,1205,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,1301,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,1401,Y,Provisional,1,,36.264,0,matched
+EDGECOMBE,ABSENTEE,N,Provisional,1,,36.264,0,matched
+EDGECOMBE,EV-BOE,N,Provisional,1,,36.264,,county_method
+EDGECOMBE,EV-PINETOPS,N,Provisional,1,,36.264,,county_method
+EDGECOMBE,EV-ROCKY MT,N,Provisional,1,,36.264,,county_method
+EDGECOMBE,PROVISIONAL,N,Provisional,1,,36.264,91,matched
+EDGECOMBE,TRANSFER,N,Provisional,1,,36.264,0,matched
+GATES,1,Y,Absentee by Mail,1,,24.39,41,matched
+GATES,2,Y,Absentee by Mail,1,,-40,10,matched
+GATES,3,Y,Absentee by Mail,1,,42.857,35,matched
+GATES,4N,Y,Absentee by Mail,1,,17.241,29,matched
+GATES,4S,Y,Absentee by Mail,1,,22.308,6,matched
+GATES,5,Y,Absentee by Mail,1,,22.308,9,matched
+GATES,1,Y,Early Voting,1,,8.376,788,matched
+GATES,2,Y,Early Voting,1,,-45.867,375,matched
+GATES,3,Y,Early Voting,1,,-3.622,994,matched
+GATES,4N,Y,Early Voting,1,,-32.269,595,matched
+GATES,4S,Y,Early Voting,1,,7.424,458,matched
+GATES,5,Y,Early Voting,1,,-27.731,476,matched
+GATES,1,Y,Election Day,1,,-33.333,243,matched
+GATES,2,Y,Election Day,1,,-68.497,346,matched
+GATES,3,Y,Election Day,1,,-25.74,439,matched
+GATES,4N,Y,Election Day,1,,-49.441,447,matched
+GATES,4S,Y,Election Day,1,,-20,230,matched
+GATES,5,Y,Election Day,1,,-51.104,317,matched
+GATES,1,Y,Provisional,1,,-23.333,4,matched
+GATES,2,Y,Provisional,1,,-23.333,7,matched
+GATES,3,Y,Provisional,1,,-23.333,5,matched
+GATES,4N,Y,Provisional,1,,-23.333,4,matched
+GATES,4S,Y,Provisional,1,,-23.333,3,matched
+GATES,5,Y,Provisional,1,,-23.333,7,matched
+GRANVILLE,ANTI,Y,Absentee by Mail,1,,-5.263,19,matched
+GRANVILLE,BERE,Y,Absentee by Mail,0,,24.381,,none
+GRANVILLE,BTNR,Y,Absentee by Mail,0,,24.381,,none
+GRANVILLE,CORI,Y,Absentee by Mail,0,,24.381,,none
+GRANVILLE,CRDL,Y,Absentee by Mail,1,,29.032,31,matched
+GRANVILLE,CRDM,Y,Absentee by Mail,0,,24.381,,none
+GRANVILLE,EAOX,Y,Absentee by Mail,1,,29.412,34,matched
+GRANVILLE,MTEN,Y,Absentee by Mail,0,,24.381,,none
+GRANVILLE,OKHL,Y,Absentee by Mail,0,,24.381,,none
+GRANVILLE,SALM,Y,Absentee by Mail,0.576,,17.073,23.6,matched
+GRANVILLE,SASS,Y,Absentee by Mail,0,,24.381,,none
+GRANVILLE,SOOX,Y,Absentee by Mail,1,,37.5,32,matched
+GRANVILLE,TYHO,Y,Absentee by Mail,0,,24.381,,none
+GRANVILLE,WILT,Y,Absentee by Mail,0,,24.381,,none
+GRANVILLE,WOEL,Y,Absentee by Mail,9e-04,,24.381,0,matched
+GRANVILLE,ANTI,Y,Early Voting,1,,21.243,692,matched
+GRANVILLE,BERE,Y,Early Voting,0,,27.383,,none
+GRANVILLE,BTNR,Y,Early Voting,0,,27.383,,none
+GRANVILLE,CORI,Y,Early Voting,0,,27.383,,none
+GRANVILLE,CRDL,Y,Early Voting,1,,35.205,1122,matched
+GRANVILLE,CRDM,Y,Early Voting,0,,27.383,,none
+GRANVILLE,EAOX,Y,Early Voting,1,,29.602,1206,matched
+GRANVILLE,MTEN,Y,Early Voting,0,,27.383,,none
+GRANVILLE,OKHL,Y,Early Voting,0,,27.383,,none
+GRANVILLE,SALM,Y,Early Voting,0.576,,-10.744,697,matched
+GRANVILLE,SASS,Y,Early Voting,0,,27.383,,none
+GRANVILLE,SOOX,Y,Early Voting,1,,50.236,848,matched
+GRANVILLE,TYHO,Y,Early Voting,0,,27.383,,none
+GRANVILLE,WILT,Y,Early Voting,0,,27.383,,none
+GRANVILLE,WOEL,Y,Early Voting,9e-04,,27.383,0.8,matched
+GRANVILLE,ANTI,Y,Election Day,1,,42.5,160,matched
+GRANVILLE,BERE,Y,Election Day,0,,29.385,,none
+GRANVILLE,BTNR,Y,Election Day,0,,29.385,,none
+GRANVILLE,CORI,Y,Election Day,0,,29.385,,none
+GRANVILLE,CRDL,Y,Election Day,1,,30.435,253,matched
+GRANVILLE,CRDM,Y,Election Day,0,,29.385,,none
+GRANVILLE,EAOX,Y,Election Day,1,,28.75,240,matched
+GRANVILLE,MTEN,Y,Election Day,0,,29.385,,none
+GRANVILLE,OKHL,Y,Election Day,0,,29.385,,none
+GRANVILLE,SALM,Y,Election Day,0.576,,-20.155,148.6,matched
+GRANVILLE,SASS,Y,Election Day,0,,29.385,,none
+GRANVILLE,SOOX,Y,Election Day,1,,53.241,216,matched
+GRANVILLE,TYHO,Y,Election Day,0,,29.385,,none
+GRANVILLE,WILT,Y,Election Day,0,,29.385,,none
+GRANVILLE,WOEL,Y,Election Day,9e-04,,29.385,0.2,matched
+GRANVILLE,ANTI,Y,Provisional,1,,51.205,7,matched
+GRANVILLE,BERE,Y,Provisional,0,,51.205,,none
+GRANVILLE,BTNR,Y,Provisional,0,,51.205,,none
+GRANVILLE,CORI,Y,Provisional,0,,51.205,,none
+GRANVILLE,CRDL,Y,Provisional,1,,51.205,9,matched
+GRANVILLE,CRDM,Y,Provisional,0,,51.205,,none
+GRANVILLE,EAOX,Y,Provisional,1,,41.176,17,matched
+GRANVILLE,MTEN,Y,Provisional,0,,51.205,,none
+GRANVILLE,OKHL,Y,Provisional,0,,51.205,,none
+GRANVILLE,SALM,Y,Provisional,0.576,,51.205,5.8,matched
+GRANVILLE,SASS,Y,Provisional,0,,51.205,,none
+GRANVILLE,SOOX,Y,Provisional,1,,57.895,19,matched
+GRANVILLE,TYHO,Y,Provisional,0,,51.205,,none
+GRANVILLE,WILT,Y,Provisional,0,,51.205,,none
+GRANVILLE,WOEL,Y,Provisional,9e-04,,51.205,0,matched
+GREENE,ARBA,Y,Absentee by Mail,1,,38.462,13,matched
+GREENE,BEAR,Y,Absentee by Mail,1,,12.5,16,matched
+GREENE,BULL,Y,Absentee by Mail,1,,-14.286,21,matched
+GREENE,CAST,Y,Absentee by Mail,1,,33.333,18,matched
+GREENE,HOOK,Y,Absentee by Mail,1,,-20,20,matched
+GREENE,MAUR,Y,Absentee by Mail,1,,4.762,21,matched
+GREENE,SH#1,Y,Absentee by Mail,1,,68.142,113,matched
+GREENE,SHIN,Y,Absentee by Mail,1,,38.71,31,matched
+GREENE,SUGG,Y,Absentee by Mail,1,,63.636,11,matched
+GREENE,WALS,Y,Absentee by Mail,1,,-47.368,19,matched
+GREENE,ARBA,Y,Early Voting,1,,4.057,493,matched
+GREENE,BEAR,Y,Early Voting,1,,-26.443,537,matched
+GREENE,BULL,Y,Early Voting,1,,-18.632,424,matched
+GREENE,CAST,Y,Early Voting,1,,-37.882,491,matched
+GREENE,HOOK,Y,Early Voting,1,,-28.533,368,matched
+GREENE,MAUR,Y,Early Voting,1,,-20,805,matched
+GREENE,SH#1,Y,Early Voting,1,,-1.451,965,matched
+GREENE,SHIN,Y,Early Voting,1,,-28.047,845,matched
+GREENE,SUGG,Y,Early Voting,1,,-20.583,583,matched
+GREENE,WALS,Y,Early Voting,1,,-7.383,447,matched
+GREENE,ARBA,Y,Election Day,1,,-11.64,189,matched
+GREENE,BEAR,Y,Election Day,1,,-47.967,123,matched
+GREENE,BULL,Y,Election Day,1,,-11.25,160,matched
+GREENE,CAST,Y,Election Day,1,,-71.515,165,matched
+GREENE,HOOK,Y,Election Day,1,,-11.34,194,matched
+GREENE,MAUR,Y,Election Day,1,,-23.184,358,matched
+GREENE,SH#1,Y,Election Day,1,,0.568,176,matched
+GREENE,SHIN,Y,Election Day,1,,-47.385,325,matched
+GREENE,SUGG,Y,Election Day,1,,-21.711,152,matched
+GREENE,WALS,Y,Election Day,1,,-19.749,319,matched
+GREENE,ARBA,Y,Provisional,1,,12.5,1,matched
+GREENE,BEAR,Y,Provisional,1,,12.5,1,matched
+GREENE,BULL,Y,Provisional,1,,12.5,6,matched
+GREENE,CAST,Y,Provisional,1,,12.5,6,matched
+GREENE,HOOK,Y,Provisional,1,,12.5,5,matched
+GREENE,MAUR,Y,Provisional,1,,12.5,4,matched
+GREENE,SH#1,Y,Provisional,1,,12.5,9,matched
+GREENE,SHIN,Y,Provisional,1,,12.5,3,matched
+GREENE,SUGG,Y,Provisional,1,,12.5,7,matched
+GREENE,WALS,Y,Provisional,1,,12.5,6,matched
+HALIFAX,ABSENTEE,N,Absentee by Mail,1,,27.833,503,matched
+HALIFAX,BUTWD,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,CONC,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,ENF,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,EV HAL,N,Absentee by Mail,1,,27.833,,county_method
+HALIFAX,EV RING,N,Absentee by Mail,1,,27.833,,county_method
+HALIFAX,EV RRA,N,Absentee by Mail,1,,27.833,,county_method
+HALIFAX,EV SN,N,Absentee by Mail,1,,27.833,,county_method
+HALIFAX,FAUCT,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,HAL,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,HOL,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,HPR,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,LIT,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,PROVISIONAL,N,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,RINGW,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,RR 10,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,RR 11,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,RR1-4,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,RR7-9,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,RRCE,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,SN,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,TRANSFER,N,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,WEL 3,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,WEL1-2,Y,Absentee by Mail,1,,27.833,0,matched
+HALIFAX,ABSENTEE,N,Early Voting,1,,17.684,0,matched
+HALIFAX,BUTWD,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,CONC,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,ENF,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,EV HAL,N,Early Voting,1,,17.684,,county_method
+HALIFAX,EV RING,N,Early Voting,1,,17.684,,county_method
+HALIFAX,EV RRA,N,Early Voting,1,,17.684,,county_method
+HALIFAX,EV SN,N,Early Voting,1,,17.684,,county_method
+HALIFAX,FAUCT,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,HAL,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,HOL,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,HPR,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,LIT,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,PROVISIONAL,N,Early Voting,1,,17.684,0,matched
+HALIFAX,RINGW,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,RR 10,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,RR 11,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,RR1-4,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,RR7-9,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,RRCE,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,SN,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,TRANSFER,N,Early Voting,1,,17.684,0,matched
+HALIFAX,WEL 3,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,WEL1-2,Y,Early Voting,1,,17.684,0,matched
+HALIFAX,ABSENTEE,N,Election Day,1,,16.966,0,matched
+HALIFAX,BUTWD,Y,Election Day,1,,-24.074,108,matched
+HALIFAX,CONC,Y,Election Day,1,,32.979,94,matched
+HALIFAX,ENF,Y,Election Day,1,,73.235,878,matched
+HALIFAX,EV HAL,N,Election Day,1,,16.966,,county_method
+HALIFAX,EV RING,N,Election Day,1,,16.966,,county_method
+HALIFAX,EV RRA,N,Election Day,1,,16.966,,county_method
+HALIFAX,EV SN,N,Election Day,1,,16.966,,county_method
+HALIFAX,FAUCT,Y,Election Day,1,,-47.347,245,matched
+HALIFAX,HAL,Y,Election Day,1,,44.186,172,matched
+HALIFAX,HOL,Y,Election Day,1,,62.329,438,matched
+HALIFAX,HPR,Y,Election Day,1,,-9.123,285,matched
+HALIFAX,LIT,Y,Election Day,1,,7.244,635,matched
+HALIFAX,PROVISIONAL,N,Election Day,1,,16.966,0,matched
+HALIFAX,RINGW,Y,Election Day,1,,74.031,258,matched
+HALIFAX,RR 10,Y,Election Day,1,,-20.296,473,matched
+HALIFAX,RR 11,Y,Election Day,1,,-22.921,445,matched
+HALIFAX,RR1-4,Y,Election Day,1,,-28.918,619,matched
+HALIFAX,RR7-9,Y,Election Day,1,,36.202,674,matched
+HALIFAX,RRCE,Y,Election Day,1,,-28.314,611,matched
+HALIFAX,SN,Y,Election Day,1,,33.89,419,matched
+HALIFAX,TRANSFER,N,Election Day,1,,16.966,0,matched
+HALIFAX,WEL 3,Y,Election Day,1,,39.057,297,matched
+HALIFAX,WEL1-2,Y,Election Day,1,,49.805,257,matched
+HALIFAX,ABSENTEE,N,Provisional,1,,14.286,0,matched
+HALIFAX,BUTWD,Y,Provisional,1,,14.286,0,matched
+HALIFAX,CONC,Y,Provisional,1,,14.286,0,matched
+HALIFAX,ENF,Y,Provisional,1,,14.286,0,matched
+HALIFAX,EV HAL,N,Provisional,1,,14.286,,county_method
+HALIFAX,EV RING,N,Provisional,1,,14.286,,county_method
+HALIFAX,EV RRA,N,Provisional,1,,14.286,,county_method
+HALIFAX,EV SN,N,Provisional,1,,14.286,,county_method
+HALIFAX,FAUCT,Y,Provisional,1,,14.286,0,matched
+HALIFAX,HAL,Y,Provisional,1,,14.286,0,matched
+HALIFAX,HOL,Y,Provisional,1,,14.286,0,matched
+HALIFAX,HPR,Y,Provisional,1,,14.286,0,matched
+HALIFAX,LIT,Y,Provisional,1,,14.286,0,matched
+HALIFAX,PROVISIONAL,N,Provisional,1,,14.286,98,matched
+HALIFAX,RINGW,Y,Provisional,1,,14.286,0,matched
+HALIFAX,RR 10,Y,Provisional,1,,14.286,0,matched
+HALIFAX,RR 11,Y,Provisional,1,,14.286,0,matched
+HALIFAX,RR1-4,Y,Provisional,1,,14.286,0,matched
+HALIFAX,RR7-9,Y,Provisional,1,,14.286,0,matched
+HALIFAX,RRCE,Y,Provisional,1,,14.286,0,matched
+HALIFAX,SN,Y,Provisional,1,,14.286,0,matched
+HALIFAX,TRANSFER,N,Provisional,1,,14.286,0,matched
+HALIFAX,WEL 3,Y,Provisional,1,,14.286,0,matched
+HALIFAX,WEL1-2,Y,Provisional,1,,14.286,0,matched
+HERTFORD,A1,Y,Absentee by Mail,1,,68.75,32,matched
+HERTFORD,A2,Y,Absentee by Mail,1,,50,48,matched
+HERTFORD,A3,Y,Absentee by Mail,1,,71.429,14,matched
+HERTFORD,BR,Y,Absentee by Mail,1,,58.257,6,matched
+HERTFORD,CM,Y,Absentee by Mail,1,,58.257,3,matched
+HERTFORD,CO,Y,Absentee by Mail,1,,58.257,6,matched
+HERTFORD,HV,Y,Absentee by Mail,1,,63.636,11,matched
+HERTFORD,M1,Y,Absentee by Mail,1,,74.286,35,matched
+HERTFORD,M2,Y,Absentee by Mail,1,,100,15,matched
+HERTFORD,ML,Y,Absentee by Mail,1,,-53.846,13,matched
+HERTFORD,SJ,Y,Absentee by Mail,1,,58.257,6,matched
+HERTFORD,UN,Y,Absentee by Mail,1,,-9.091,11,matched
+HERTFORD,WN,Y,Absentee by Mail,1,,88.889,18,matched
+HERTFORD,A1,Y,Early Voting,1,,39.963,1086,matched
+HERTFORD,A2,Y,Early Voting,1,,3.175,1071,matched
+HERTFORD,A3,Y,Early Voting,1,,78.15,508,matched
+HERTFORD,BR,Y,Early Voting,1,,59.694,196,matched
+HERTFORD,CM,Y,Early Voting,1,,-2.747,182,matched
+HERTFORD,CO,Y,Early Voting,1,,39.474,228,matched
+HERTFORD,HV,Y,Early Voting,1,,-11.26,373,matched
+HERTFORD,M1,Y,Early Voting,1,,37.06,1136,matched
+HERTFORD,M2,Y,Early Voting,1,,25.581,602,matched
+HERTFORD,ML,Y,Early Voting,1,,-50.698,215,matched
+HERTFORD,SJ,Y,Early Voting,1,,17.799,309,matched
+HERTFORD,UN,Y,Early Voting,1,,29.258,458,matched
+HERTFORD,WN,Y,Early Voting,1,,38.815,675,matched
+HERTFORD,A1,Y,Election Day,1,,41.554,296,matched
+HERTFORD,A2,Y,Election Day,1,,11.618,241,matched
+HERTFORD,A3,Y,Election Day,1,,84.541,207,matched
+HERTFORD,BR,Y,Election Day,1,,53.165,79,matched
+HERTFORD,CM,Y,Election Day,1,,-35.196,179,matched
+HERTFORD,CO,Y,Election Day,1,,57.576,132,matched
+HERTFORD,HV,Y,Election Day,1,,-3.109,193,matched
+HERTFORD,M1,Y,Election Day,1,,40,345,matched
+HERTFORD,M2,Y,Election Day,1,,61.111,162,matched
+HERTFORD,ML,Y,Election Day,1,,-60,195,matched
+HERTFORD,SJ,Y,Election Day,1,,15.5,200,matched
+HERTFORD,UN,Y,Election Day,1,,-5.96,151,matched
+HERTFORD,WN,Y,Election Day,1,,22.404,183,matched
+HERTFORD,A1,Y,Provisional,1,,13.043,0,matched
+HERTFORD,A2,Y,Provisional,1,,13.043,0,matched
+HERTFORD,A3,Y,Provisional,1,,13.043,0,matched
+HERTFORD,BR,Y,Provisional,1,,13.043,1,matched
+HERTFORD,CM,Y,Provisional,1,,13.043,0,matched
+HERTFORD,CO,Y,Provisional,1,,13.043,4,matched
+HERTFORD,HV,Y,Provisional,1,,13.043,0,matched
+HERTFORD,M1,Y,Provisional,1,,13.043,5,matched
+HERTFORD,M2,Y,Provisional,1,,20,10,matched
+HERTFORD,ML,Y,Provisional,1,,13.043,0,matched
+HERTFORD,SJ,Y,Provisional,1,,13.043,0,matched
+HERTFORD,UN,Y,Provisional,1,,13.043,0,matched
+HERTFORD,WN,Y,Provisional,1,,13.043,3,matched
+LENOIR,C,Y,Absentee by Mail,1,,3.846,52,matched
+LENOIR,FC,Y,Absentee by Mail,1,,-15,120,matched
+LENOIR,I,Y,Absentee by Mail,1,,18.519,27,matched
+LENOIR,K1,Y,Absentee by Mail,1,,18.056,2,matched
+LENOIR,K2,Y,Absentee by Mail,1,,16.667,12,matched
+LENOIR,K3,Y,Absentee by Mail,1,,72.727,22,matched
+LENOIR,K4,Y,Absentee by Mail,1,,49.425,87,matched
+LENOIR,K5,Y,Absentee by Mail,1,,54.545,66,matched
+LENOIR,K6,Y,Absentee by Mail,1,,65.714,35,matched
+LENOIR,K7,Y,Absentee by Mail,1,,64,25,matched
+LENOIR,K8,Y,Absentee by Mail,1,,18.056,6,matched
+LENOIR,K9,Y,Absentee by Mail,1,,36.923,65,matched
+LENOIR,MH,Y,Absentee by Mail,1,,27.273,66,matched
+LENOIR,N,Y,Absentee by Mail,1,,11.111,45,matched
+LENOIR,PH,Y,Absentee by Mail,1,,18.056,,none
+LENOIR,SH,Y,Absentee by Mail,1,,-9.091,11,matched
+LENOIR,SW,Y,Absentee by Mail,1,,-7.692,26,matched
+LENOIR,T1,Y,Absentee by Mail,1,,-72,25,matched
+LENOIR,T2,Y,Absentee by Mail,1,,-28.571,14,matched
+LENOIR,V,Y,Absentee by Mail,1,,3.226,31,matched
+LENOIR,W,Y,Absentee by Mail,1,,-48.387,31,matched
+LENOIR,C,Y,Early Voting,1,,-15.505,1219,matched
+LENOIR,FC,Y,Early Voting,1,,-38.368,2549,matched
+LENOIR,I,Y,Early Voting,1,,-35.115,1085,matched
+LENOIR,K1,Y,Early Voting,1,,95.708,233,matched
+LENOIR,K2,Y,Early Voting,1,,88.011,367,matched
+LENOIR,K3,Y,Early Voting,1,,57.996,569,matched
+LENOIR,K4,Y,Early Voting,1,,7.324,1652,matched
+LENOIR,K5,Y,Early Voting,1,,51.684,683,matched
+LENOIR,K6,Y,Early Voting,1,,67.273,990,matched
+LENOIR,K7,Y,Early Voting,1,,62.281,912,matched
+LENOIR,K8,Y,Early Voting,1,,90.802,424,matched
+LENOIR,K9,Y,Early Voting,1,,43.011,1209,matched
+LENOIR,MH,Y,Early Voting,1,,-9.461,2188,matched
+LENOIR,N,Y,Early Voting,1,,-42.128,1861,matched
+LENOIR,PH,Y,Early Voting,1,,-7.238,,none
+LENOIR,SH,Y,Early Voting,1,,-56.352,307,matched
+LENOIR,SW,Y,Early Voting,1,,-60.332,542,matched
+LENOIR,T1,Y,Early Voting,1,,-69.035,746,matched
+LENOIR,T2,Y,Early Voting,1,,-71.753,616,matched
+LENOIR,V,Y,Early Voting,1,,3.53,1218,matched
+LENOIR,W,Y,Early Voting,1,,-70.997,662,matched
+LENOIR,C,Y,Election Day,1,,-25.31,403,matched
+LENOIR,FC,Y,Election Day,1,,-30.288,416,matched
+LENOIR,I,Y,Election Day,1,,-30.466,279,matched
+LENOIR,K1,Y,Election Day,1,,96.154,104,matched
+LENOIR,K2,Y,Election Day,1,,84.348,115,matched
+LENOIR,K3,Y,Election Day,1,,64.706,221,matched
+LENOIR,K4,Y,Election Day,1,,15.812,234,matched
+LENOIR,K5,Y,Election Day,1,,61.719,256,matched
+LENOIR,K6,Y,Election Day,1,,63.223,242,matched
+LENOIR,K7,Y,Election Day,1,,53.731,201,matched
+LENOIR,K8,Y,Election Day,1,,90.123,162,matched
+LENOIR,K9,Y,Election Day,1,,47.418,213,matched
+LENOIR,MH,Y,Election Day,1,,-7.677,508,matched
+LENOIR,N,Y,Election Day,1,,-18.852,366,matched
+LENOIR,PH,Y,Election Day,1,,-9.337,,none
+LENOIR,SH,Y,Election Day,1,,-73.799,229,matched
+LENOIR,SW,Y,Election Day,1,,-63.136,236,matched
+LENOIR,T1,Y,Election Day,1,,-59.6,250,matched
+LENOIR,T2,Y,Election Day,1,,-66.516,221,matched
+LENOIR,V,Y,Election Day,1,,-8.059,273,matched
+LENOIR,W,Y,Election Day,1,,-80.788,203,matched
+LENOIR,C,Y,Provisional,1,,14.563,8,matched
+LENOIR,FC,Y,Provisional,1,,-12.5,16,matched
+LENOIR,I,Y,Provisional,1,,14.563,9,matched
+LENOIR,K1,Y,Provisional,1,,14.563,9,matched
+LENOIR,K2,Y,Provisional,1,,14.563,7,matched
+LENOIR,K3,Y,Provisional,1,,14.563,8,matched
+LENOIR,K4,Y,Provisional,1,,14.563,6,matched
+LENOIR,K5,Y,Provisional,1,,81.818,11,matched
+LENOIR,K6,Y,Provisional,1,,75,20,matched
+LENOIR,K7,Y,Provisional,1,,37.5,16,matched
+LENOIR,K8,Y,Provisional,1,,14.563,9,matched
+LENOIR,K9,Y,Provisional,1,,14.563,5,matched
+LENOIR,MH,Y,Provisional,1,,40,20,matched
+LENOIR,N,Y,Provisional,1,,-10.714,28,matched
+LENOIR,PH,Y,Provisional,1,,14.563,,none
+LENOIR,SH,Y,Provisional,1,,14.563,2,matched
+LENOIR,SW,Y,Provisional,1,,14.563,3,matched
+LENOIR,T1,Y,Provisional,1,,14.563,6,matched
+LENOIR,T2,Y,Provisional,1,,14.563,4,matched
+LENOIR,V,Y,Provisional,1,,14.563,6,matched
+LENOIR,W,Y,Provisional,1,,14.563,7,matched
+MARTIN,BG,Y,Absentee by Mail,1,,29.252,0,matched
+MARTIN,CR,Y,Absentee by Mail,1,,29.252,0,matched
+MARTIN,GRF,Y,Absentee by Mail,1,,29.252,0,matched
+MARTIN,GSN,Y,Absentee by Mail,1,,29.252,0,matched
+MARTIN,HMT,Y,Absentee by Mail,1,,29.252,0,matched
+MARTIN,JMV,Y,Absentee by Mail,1,,29.252,0,matched
+MARTIN,RBV,Y,Absentee by Mail,1,,29.252,0,matched
+MARTIN,WM1,Y,Absentee by Mail,1,,29.252,0,matched
+MARTIN,WM2,Y,Absentee by Mail,1,,29.252,0,matched
+MARTIN,BG,Y,Early Voting,1,,-5.222,0,matched
+MARTIN,CR,Y,Early Voting,1,,-5.222,0,matched
+MARTIN,GRF,Y,Early Voting,1,,-5.222,0,matched
+MARTIN,GSN,Y,Early Voting,1,,-5.222,0,matched
+MARTIN,HMT,Y,Early Voting,1,,-5.222,0,matched
+MARTIN,JMV,Y,Early Voting,1,,-5.222,0,matched
+MARTIN,RBV,Y,Early Voting,1,,-5.222,0,matched
+MARTIN,WM1,Y,Early Voting,1,,-5.222,0,matched
+MARTIN,WM2,Y,Early Voting,1,,-5.222,0,matched
+MARTIN,BG,Y,Election Day,1,,-64.06,537,matched
+MARTIN,CR,Y,Election Day,1,,-31.765,340,matched
+MARTIN,GRF,Y,Election Day,1,,-67.647,544,matched
+MARTIN,GSN,Y,Election Day,1,,-4.245,424,matched
+MARTIN,HMT,Y,Election Day,1,,-11.169,385,matched
+MARTIN,JMV,Y,Election Day,1,,-49.795,488,matched
+MARTIN,RBV,Y,Election Day,1,,16.225,641,matched
+MARTIN,WM1,Y,Election Day,1,,5.707,403,matched
+MARTIN,WM2,Y,Election Day,1,,13.122,442,matched
+MARTIN,BG,Y,Provisional,1,,11.111,0,matched
+MARTIN,CR,Y,Provisional,1,,11.111,0,matched
+MARTIN,GRF,Y,Provisional,1,,11.111,0,matched
+MARTIN,GSN,Y,Provisional,1,,11.111,0,matched
+MARTIN,HMT,Y,Provisional,1,,11.111,0,matched
+MARTIN,JMV,Y,Provisional,1,,11.111,0,matched
+MARTIN,RBV,Y,Provisional,1,,11.111,0,matched
+MARTIN,WM1,Y,Provisional,1,,11.111,0,matched
+MARTIN,WM2,Y,Provisional,1,,11.111,0,matched
+NASH,ABSENTEE,N,Absentee by Mail,1,,22.61,,county_method
+NASH,MT. PLEASANT EV,N,Absentee by Mail,1,,22.61,,county_method
+NASH,NASHVILLE EV,N,Absentee by Mail,1,,22.61,,county_method
+NASH,P01A,Y,Absentee by Mail,1,,38.776,49,matched
+NASH,P02A,Y,Absentee by Mail,1,,28.571,56,matched
+NASH,P03A,Y,Absentee by Mail,1,,33.333,30,matched
+NASH,P04A,Y,Absentee by Mail,1,,-33.333,21,matched
+NASH,P05A,Y,Absentee by Mail,1,,-17.308,52,matched
+NASH,P06A,Y,Absentee by Mail,1,,9.091,55,matched
+NASH,P07A,Y,Absentee by Mail,1,,36.364,22,matched
+NASH,P08A,Y,Absentee by Mail,1,,21.951,123,matched
+NASH,P09A,Y,Absentee by Mail,1,,30,20,matched
+NASH,P10A,Y,Absentee by Mail,1,,50,38,matched
+NASH,P11A,Y,Absentee by Mail,1,,-28.125,64,matched
+NASH,P12A,Y,Absentee by Mail,1,,46.667,15,matched
+NASH,P13A,Y,Absentee by Mail,1,,22.61,8,matched
+NASH,P14A,Y,Absentee by Mail,1,,2.041,49,matched
+NASH,P15A,Y,Absentee by Mail,1,,0,61,matched
+NASH,P16A,Y,Absentee by Mail,1,,36.842,38,matched
+NASH,P17A,Y,Absentee by Mail,1,,41.463,82,matched
+NASH,P18A,Y,Absentee by Mail,1,,37.634,93,matched
+NASH,P19A,Y,Absentee by Mail,1,,36.17,188,matched
+NASH,P20A,Y,Absentee by Mail,1,,41.818,55,matched
+NASH,P21A,Y,Absentee by Mail,1,,45.714,70,matched
+NASH,P22A,Y,Absentee by Mail,1,,60,30,matched
+NASH,P23A,Y,Absentee by Mail,1,,42.857,28,matched
+NASH,P24A,Y,Absentee by Mail,1,,-33.803,71,matched
+NASH,PROVISIONAL,N,Absentee by Mail,1,,22.61,,county_method
+NASH,ROCKY MOUNT EV,N,Absentee by Mail,1,,22.61,,county_method
+NASH,SUPP ABSENTEE,N,Absentee by Mail,1,,22.61,,county_method
+NASH,TRANSFER,N,Absentee by Mail,1,,22.61,,county_method
+NASH,ABSENTEE,N,Early Voting,1,,-2.756,,county_method
+NASH,MT. PLEASANT EV,N,Early Voting,1,,-2.756,,county_method
+NASH,NASHVILLE EV,N,Early Voting,1,,-2.756,,county_method
+NASH,P01A,Y,Early Voting,1,,-35.981,2090,matched
+NASH,P02A,Y,Early Voting,1,,-28.437,1273,matched
+NASH,P03A,Y,Early Voting,1,,-43.929,1013,matched
+NASH,P04A,Y,Early Voting,1,,-31.082,1155,matched
+NASH,P05A,Y,Early Voting,1,,-60.241,2075,matched
+NASH,P06A,Y,Early Voting,1,,2.275,1846,matched
+NASH,P07A,Y,Early Voting,1,,-41.807,476,matched
+NASH,P08A,Y,Early Voting,1,,-9.348,4953,matched
+NASH,P09A,Y,Early Voting,1,,-17.585,762,matched
+NASH,P10A,Y,Early Voting,1,,23.516,1280,matched
+NASH,P11A,Y,Early Voting,1,,-50.509,2261,matched
+NASH,P12A,Y,Early Voting,1,,4.892,511,matched
+NASH,P13A,Y,Early Voting,1,,45.504,367,matched
+NASH,P14A,Y,Early Voting,1,,-12.774,1049,matched
+NASH,P15A,Y,Early Voting,1,,-21.19,3058,matched
+NASH,P16A,Y,Early Voting,1,,19.719,1283,matched
+NASH,P17A,Y,Early Voting,1,,41.602,2322,matched
+NASH,P18A,Y,Early Voting,1,,42.953,1646,matched
+NASH,P19A,Y,Early Voting,1,,7.135,3602,matched
+NASH,P20A,Y,Early Voting,1,,17.131,1687,matched
+NASH,P21A,Y,Early Voting,1,,43.816,1609,matched
+NASH,P22A,Y,Early Voting,1,,78.049,943,matched
+NASH,P23A,Y,Early Voting,1,,67.566,1557,matched
+NASH,P24A,Y,Early Voting,1,,-36.85,2000,matched
+NASH,PROVISIONAL,N,Early Voting,1,,-2.756,,county_method
+NASH,ROCKY MOUNT EV,N,Early Voting,1,,-2.756,,county_method
+NASH,SUPP ABSENTEE,N,Early Voting,1,,-2.756,,county_method
+NASH,TRANSFER,N,Early Voting,1,,-2.756,,county_method
+NASH,ABSENTEE,N,Election Day,1,,-1.386,,county_method
+NASH,MT. PLEASANT EV,N,Election Day,1,,-1.386,,county_method
+NASH,NASHVILLE EV,N,Election Day,1,,-1.386,,county_method
+NASH,P01A,Y,Election Day,1,,-18.596,527,matched
+NASH,P02A,Y,Election Day,1,,-36.244,607,matched
+NASH,P03A,Y,Election Day,1,,-39.789,475,matched
+NASH,P04A,Y,Election Day,1,,-41.925,322,matched
+NASH,P05A,Y,Election Day,1,,-70.495,566,matched
+NASH,P06A,Y,Election Day,1,,-5.857,461,matched
+NASH,P07A,Y,Election Day,1,,-58.108,222,matched
+NASH,P08A,Y,Election Day,1,,11.838,642,matched
+NASH,P09A,Y,Election Day,1,,-18.452,336,matched
+NASH,P10A,Y,Election Day,1,,21.014,276,matched
+NASH,P11A,Y,Election Day,1,,-44.258,418,matched
+NASH,P12A,Y,Election Day,1,,0.637,314,matched
+NASH,P13A,Y,Election Day,1,,38.164,207,matched
+NASH,P14A,Y,Election Day,1,,-22.925,253,matched
+NASH,P15A,Y,Election Day,1,,-19.84,499,matched
+NASH,P16A,Y,Election Day,1,,20.506,356,matched
+NASH,P17A,Y,Election Day,1,,40.536,634,matched
+NASH,P18A,Y,Election Day,1,,38.043,368,matched
+NASH,P19A,Y,Election Day,1,,9.375,640,matched
+NASH,P20A,Y,Election Day,1,,15.616,365,matched
+NASH,P21A,Y,Election Day,1,,46.224,331,matched
+NASH,P22A,Y,Election Day,1,,76.154,260,matched
+NASH,P23A,Y,Election Day,1,,75.725,552,matched
+NASH,P24A,Y,Election Day,1,,-23.256,473,matched
+NASH,PROVISIONAL,N,Election Day,1,,-1.386,,county_method
+NASH,ROCKY MOUNT EV,N,Election Day,1,,-1.386,,county_method
+NASH,SUPP ABSENTEE,N,Election Day,1,,-1.386,,county_method
+NASH,TRANSFER,N,Election Day,1,,-1.386,,county_method
+NASH,ABSENTEE,N,Provisional,1,,19.048,,county_method
+NASH,MT. PLEASANT EV,N,Provisional,1,,19.048,,county_method
+NASH,NASHVILLE EV,N,Provisional,1,,19.048,,county_method
+NASH,P01A,Y,Provisional,1,,19.048,7,matched
+NASH,P02A,Y,Provisional,1,,19.048,8,matched
+NASH,P03A,Y,Provisional,1,,-60,15,matched
+NASH,P04A,Y,Provisional,1,,19.048,3,matched
+NASH,P05A,Y,Provisional,1,,19.048,7,matched
+NASH,P06A,Y,Provisional,1,,41.176,17,matched
+NASH,P07A,Y,Provisional,1,,19.048,3,matched
+NASH,P08A,Y,Provisional,1,,11.111,27,matched
+NASH,P09A,Y,Provisional,1,,33.333,15,matched
+NASH,P10A,Y,Provisional,1,,66.667,15,matched
+NASH,P11A,Y,Provisional,1,,19.048,6,matched
+NASH,P12A,Y,Provisional,1,,19.048,6,matched
+NASH,P13A,Y,Provisional,1,,19.048,5,matched
+NASH,P14A,Y,Provisional,1,,19.048,2,matched
+NASH,P15A,Y,Provisional,1,,19.048,7,matched
+NASH,P16A,Y,Provisional,1,,63.636,11,matched
+NASH,P17A,Y,Provisional,1,,20,10,matched
+NASH,P18A,Y,Provisional,1,,33.333,12,matched
+NASH,P19A,Y,Provisional,1,,19.048,9,matched
+NASH,P20A,Y,Provisional,1,,19.048,1,matched
+NASH,P21A,Y,Provisional,1,,46.667,15,matched
+NASH,P22A,Y,Provisional,1,,19.048,5,matched
+NASH,P23A,Y,Provisional,1,,19.048,9,matched
+NASH,P24A,Y,Provisional,1,,-6.25,16,matched
+NASH,PROVISIONAL,N,Provisional,1,,19.048,,county_method
+NASH,ROCKY MOUNT EV,N,Provisional,1,,19.048,,county_method
+NASH,SUPP ABSENTEE,N,Provisional,1,,19.048,,county_method
+NASH,TRANSFER,N,Provisional,1,,19.048,,county_method
+NORTHAMPTON,ABSENTEE,N,Absentee by Mail,1,,35.176,199,matched
+NORTHAMPTON,COMIPE,Y,Absentee by Mail,1,,35.176,0,matched
+NORTHAMPTON,CREEKS,Y,Absentee by Mail,1,,35.176,0,matched
+NORTHAMPTON,EV GASTON,N,Absentee by Mail,1,,35.176,,county_method
+NORTHAMPTON,EV JACKSON,N,Absentee by Mail,1,,35.176,,county_method
+NORTHAMPTON,EV RICH SQUARE,N,Absentee by Mail,1,,35.176,,county_method
+NORTHAMPTON,GALATI,Y,Absentee by Mail,1,,35.176,0,matched
+NORTHAMPTON,GAPL,Y,Absentee by Mail,1,,35.176,0,matched
+NORTHAMPTON,GASTON,Y,Absentee by Mail,1,,35.176,0,matched
+NORTHAMPTON,JARE,Y,Absentee by Mail,1,,35.176,0,matched
+NORTHAMPTON,LAKE G,Y,Absentee by Mail,1,,35.176,0,matched
+NORTHAMPTON,LASKER,Y,Absentee by Mail,1,,35.176,0,matched
+NORTHAMPTON,NEWTOW,Y,Absentee by Mail,1,,35.176,0,matched
+NORTHAMPTON,PROVISIONAL,N,Absentee by Mail,1,,35.176,0,matched
+NORTHAMPTON,RICH S,Y,Absentee by Mail,1,,35.176,0,matched
+NORTHAMPTON,SEABOA,Y,Absentee by Mail,1,,35.176,0,matched
+NORTHAMPTON,SEVERN,Y,Absentee by Mail,1,,35.176,0,matched
+NORTHAMPTON,TRANSFER,N,Absentee by Mail,1,,35.176,0,matched
+NORTHAMPTON,WOPO,Y,Absentee by Mail,1,,35.176,0,matched
+NORTHAMPTON,ABSENTEE,N,Early Voting,1,,18.595,0,matched
+NORTHAMPTON,COMIPE,Y,Early Voting,1,,18.595,0,matched
+NORTHAMPTON,CREEKS,Y,Early Voting,1,,18.595,0,matched
+NORTHAMPTON,EV GASTON,N,Early Voting,1,,18.595,,county_method
+NORTHAMPTON,EV JACKSON,N,Early Voting,1,,18.595,,county_method
+NORTHAMPTON,EV RICH SQUARE,N,Early Voting,1,,18.595,,county_method
+NORTHAMPTON,GALATI,Y,Early Voting,1,,18.595,0,matched
+NORTHAMPTON,GAPL,Y,Early Voting,1,,18.595,0,matched
+NORTHAMPTON,GASTON,Y,Early Voting,1,,18.595,0,matched
+NORTHAMPTON,JARE,Y,Early Voting,1,,18.595,0,matched
+NORTHAMPTON,LAKE G,Y,Early Voting,1,,18.595,0,matched
+NORTHAMPTON,LASKER,Y,Early Voting,1,,18.595,0,matched
+NORTHAMPTON,NEWTOW,Y,Early Voting,1,,18.595,0,matched
+NORTHAMPTON,PROVISIONAL,N,Early Voting,1,,18.595,0,matched
+NORTHAMPTON,RICH S,Y,Early Voting,1,,18.595,0,matched
+NORTHAMPTON,SEABOA,Y,Early Voting,1,,18.595,0,matched
+NORTHAMPTON,SEVERN,Y,Early Voting,1,,18.595,0,matched
+NORTHAMPTON,TRANSFER,N,Early Voting,1,,18.595,0,matched
+NORTHAMPTON,WOPO,Y,Early Voting,1,,18.595,0,matched
+NORTHAMPTON,ABSENTEE,N,Election Day,1,,3.188,0,matched
+NORTHAMPTON,COMIPE,Y,Election Day,1,,-33.412,422,matched
+NORTHAMPTON,CREEKS,Y,Election Day,1,,-30.128,156,matched
+NORTHAMPTON,EV GASTON,N,Election Day,1,,3.188,,county_method
+NORTHAMPTON,EV JACKSON,N,Election Day,1,,3.188,,county_method
+NORTHAMPTON,EV RICH SQUARE,N,Election Day,1,,3.188,,county_method
+NORTHAMPTON,GALATI,Y,Election Day,1,,-30.657,137,matched
+NORTHAMPTON,GAPL,Y,Election Day,1,,72.193,374,matched
+NORTHAMPTON,GASTON,Y,Election Day,1,,25.07,355,matched
+NORTHAMPTON,JARE,Y,Election Day,1,,6.667,120,matched
+NORTHAMPTON,LAKE G,Y,Election Day,1,,1.37,219,matched
+NORTHAMPTON,LASKER,Y,Election Day,1,,-84.932,73,matched
+NORTHAMPTON,NEWTOW,Y,Election Day,1,,-58.721,172,matched
+NORTHAMPTON,PROVISIONAL,N,Election Day,1,,3.188,0,matched
+NORTHAMPTON,RICH S,Y,Election Day,1,,42.331,163,matched
+NORTHAMPTON,SEABOA,Y,Election Day,1,,39.683,189,matched
+NORTHAMPTON,SEVERN,Y,Election Day,1,,-37.086,151,matched
+NORTHAMPTON,TRANSFER,N,Election Day,1,,3.188,0,matched
+NORTHAMPTON,WOPO,Y,Election Day,1,,12.575,167,matched
+NORTHAMPTON,ABSENTEE,N,Provisional,1,,30.769,0,matched
+NORTHAMPTON,COMIPE,Y,Provisional,1,,30.769,0,matched
+NORTHAMPTON,CREEKS,Y,Provisional,1,,30.769,0,matched
+NORTHAMPTON,EV GASTON,N,Provisional,1,,30.769,,county_method
+NORTHAMPTON,EV JACKSON,N,Provisional,1,,30.769,,county_method
+NORTHAMPTON,EV RICH SQUARE,N,Provisional,1,,30.769,,county_method
+NORTHAMPTON,GALATI,Y,Provisional,1,,30.769,0,matched
+NORTHAMPTON,GAPL,Y,Provisional,1,,30.769,0,matched
+NORTHAMPTON,GASTON,Y,Provisional,1,,30.769,0,matched
+NORTHAMPTON,JARE,Y,Provisional,1,,30.769,0,matched
+NORTHAMPTON,LAKE G,Y,Provisional,1,,30.769,0,matched
+NORTHAMPTON,LASKER,Y,Provisional,1,,30.769,0,matched
+NORTHAMPTON,NEWTOW,Y,Provisional,1,,30.769,0,matched
+NORTHAMPTON,PROVISIONAL,N,Provisional,1,,30.769,26,matched
+NORTHAMPTON,RICH S,Y,Provisional,1,,30.769,0,matched
+NORTHAMPTON,SEABOA,Y,Provisional,1,,30.769,0,matched
+NORTHAMPTON,SEVERN,Y,Provisional,1,,30.769,0,matched
+NORTHAMPTON,TRANSFER,N,Provisional,1,,30.769,0,matched
+NORTHAMPTON,WOPO,Y,Provisional,1,,30.769,0,matched
+PASQUOTANK,EAST,Y,Absentee by Mail,1,,29.268,82,matched
+PASQUOTANK,MH,Y,Absentee by Mail,1,,5.085,118,matched
+PASQUOTANK,NEW,Y,Absentee by Mail,1,,-5.556,36,matched
+PASQUOTANK,NIX,Y,Absentee by Mail,1,,4.494,89,matched
+PASQUOTANK,NORTH,Y,Absentee by Mail,1,,35.897,39,matched
+PASQUOTANK,PRO,Y,Absentee by Mail,1,,6.667,135,matched
+PASQUOTANK,SAL,Y,Absentee by Mail,1,,28.571,28,matched
+PASQUOTANK,SOUTH,Y,Absentee by Mail,1,,50,40,matched
+PASQUOTANK,WEST,Y,Absentee by Mail,1,,45.783,83,matched
+PASQUOTANK,EAST,Y,Early Voting,1,,11.582,1770,matched
+PASQUOTANK,MH,Y,Early Voting,1,,-2.65,2528,matched
+PASQUOTANK,NEW,Y,Early Voting,1,,-1.593,879,matched
+PASQUOTANK,NIX,Y,Early Voting,1,,-31.273,2443,matched
+PASQUOTANK,NORTH,Y,Early Voting,1,,17.104,953,matched
+PASQUOTANK,PRO,Y,Early Voting,1,,-31.749,2756,matched
+PASQUOTANK,SAL,Y,Early Voting,1,,-43.644,708,matched
+PASQUOTANK,SOUTH,Y,Early Voting,1,,56.271,1491,matched
+PASQUOTANK,WEST,Y,Early Voting,1,,53.893,1156,matched
+PASQUOTANK,EAST,Y,Election Day,1,,8.645,428,matched
+PASQUOTANK,MH,Y,Election Day,1,,-27.867,872,matched
+PASQUOTANK,NEW,Y,Election Day,1,,-39.389,589,matched
+PASQUOTANK,NIX,Y,Election Day,1,,-47.049,593,matched
+PASQUOTANK,NORTH,Y,Election Day,1,,18.112,392,matched
+PASQUOTANK,PRO,Y,Election Day,1,,-44.698,1009,matched
+PASQUOTANK,SAL,Y,Election Day,1,,-67.518,274,matched
+PASQUOTANK,SOUTH,Y,Election Day,1,,48.205,390,matched
+PASQUOTANK,WEST,Y,Election Day,1,,50.802,374,matched
+PASQUOTANK,EAST,Y,Provisional,1,,14.286,14,matched
+PASQUOTANK,MH,Y,Provisional,1,,-6.818,4,matched
+PASQUOTANK,NEW,Y,Provisional,1,,-6.818,9,matched
+PASQUOTANK,NIX,Y,Provisional,1,,-6.818,5,matched
+PASQUOTANK,NORTH,Y,Provisional,1,,-5.263,19,matched
+PASQUOTANK,PRO,Y,Provisional,1,,-60,10,matched
+PASQUOTANK,SAL,Y,Provisional,1,,-6.818,3,matched
+PASQUOTANK,SOUTH,Y,Provisional,1,,80,10,matched
+PASQUOTANK,WEST,Y,Provisional,1,,14.286,14,matched
+PERQUIMANS,BELVID,Y,Absentee by Mail,1,,-8.511,0,matched
+PERQUIMANS,BETHEL,Y,Absentee by Mail,1,,-8.511,0,matched
+PERQUIMANS,EAST H,Y,Absentee by Mail,1,,-8.511,0,matched
+PERQUIMANS,NEW HO,Y,Absentee by Mail,1,,-8.511,0,matched
+PERQUIMANS,NICANO,Y,Absentee by Mail,1,,-8.511,0,matched
+PERQUIMANS,PARKVI,Y,Absentee by Mail,1,,-8.511,0,matched
+PERQUIMANS,WEST H,Y,Absentee by Mail,1,,-8.511,0,matched
+PERQUIMANS,BELVID,Y,Early Voting,1,,-40.14,0,matched
+PERQUIMANS,BETHEL,Y,Early Voting,1,,-40.14,0,matched
+PERQUIMANS,EAST H,Y,Early Voting,1,,-40.14,0,matched
+PERQUIMANS,NEW HO,Y,Early Voting,1,,-40.14,0,matched
+PERQUIMANS,NICANO,Y,Early Voting,1,,-40.14,0,matched
+PERQUIMANS,PARKVI,Y,Early Voting,1,,-40.14,0,matched
+PERQUIMANS,WEST H,Y,Early Voting,1,,-40.14,0,matched
+PERQUIMANS,BELVID,Y,Election Day,1,,-57.5,240,matched
+PERQUIMANS,BETHEL,Y,Election Day,1,,-39.394,396,matched
+PERQUIMANS,EAST H,Y,Election Day,1,,22.66,203,matched
+PERQUIMANS,NEW HO,Y,Election Day,1,,-53.979,578,matched
+PERQUIMANS,NICANO,Y,Election Day,1,,-68,125,matched
+PERQUIMANS,PARKVI,Y,Election Day,1,,-31.164,292,matched
+PERQUIMANS,WEST H,Y,Election Day,1,,-35.028,177,matched
+PERQUIMANS,BELVID,Y,Provisional,1,,-42.857,0,matched
+PERQUIMANS,BETHEL,Y,Provisional,1,,-42.857,0,matched
+PERQUIMANS,EAST H,Y,Provisional,1,,-42.857,0,matched
+PERQUIMANS,NEW HO,Y,Provisional,1,,-42.857,0,matched
+PERQUIMANS,NICANO,Y,Provisional,1,,-42.857,0,matched
+PERQUIMANS,PARKVI,Y,Provisional,1,,-42.857,0,matched
+PERQUIMANS,WEST H,Y,Provisional,1,,-42.857,0,matched
+TYRRELL,1,Y,Absentee by Mail,1,,64.706,0,matched
+TYRRELL,14,Y,Absentee by Mail,1,,64.706,0,matched
+TYRRELL,15,Y,Absentee by Mail,1,,64.706,0,matched
+TYRRELL,16,Y,Absentee by Mail,1,,64.706,0,matched
+TYRRELL,2,Y,Absentee by Mail,1,,64.706,0,matched
+TYRRELL,3,Y,Absentee by Mail,1,,64.706,0,matched
+TYRRELL,ABSENTEE,N,Absentee by Mail,1,,64.706,17,matched
+TYRRELL,EARLY VOTING,N,Absentee by Mail,1,,64.706,0,matched
+TYRRELL,PROVISIONAL,N,Absentee by Mail,1,,64.706,0,matched
+TYRRELL,TRANSFER,N,Absentee by Mail,1,,64.706,0,matched
+TYRRELL,1,Y,Early Voting,1,,-29.004,0,matched
+TYRRELL,14,Y,Early Voting,1,,-29.004,0,matched
+TYRRELL,15,Y,Early Voting,1,,-29.004,0,matched
+TYRRELL,16,Y,Early Voting,1,,-29.004,0,matched
+TYRRELL,2,Y,Early Voting,1,,-29.004,0,matched
+TYRRELL,3,Y,Early Voting,1,,-29.004,0,matched
+TYRRELL,ABSENTEE,N,Early Voting,1,,-29.004,0,matched
+TYRRELL,EARLY VOTING,N,Early Voting,1,,-29.004,1155,matched
+TYRRELL,PROVISIONAL,N,Early Voting,1,,-29.004,0,matched
+TYRRELL,TRANSFER,N,Early Voting,1,,-29.004,0,matched
+TYRRELL,1,Y,Election Day,1,,80.488,82,matched
+TYRRELL,14,Y,Election Day,1,,-95.833,24,matched
+TYRRELL,15,Y,Election Day,1,,-11.111,117,matched
+TYRRELL,16,Y,Election Day,1,,-8.997,4,matched
+TYRRELL,2,Y,Election Day,1,,-16.254,283,matched
+TYRRELL,3,Y,Election Day,1,,-52.941,68,matched
+TYRRELL,ABSENTEE,N,Election Day,1,,-8.997,0,matched
+TYRRELL,EARLY VOTING,N,Election Day,1,,-8.997,0,matched
+TYRRELL,PROVISIONAL,N,Election Day,1,,-8.997,0,matched
+TYRRELL,TRANSFER,N,Election Day,1,,-8.997,0,matched
+TYRRELL,1,Y,Provisional,1,,-14.286,0,matched
+TYRRELL,14,Y,Provisional,1,,-14.286,0,matched
+TYRRELL,15,Y,Provisional,1,,-14.286,0,matched
+TYRRELL,16,Y,Provisional,1,,-14.286,0,matched
+TYRRELL,2,Y,Provisional,1,,-14.286,0,matched
+TYRRELL,3,Y,Provisional,1,,-14.286,0,matched
+TYRRELL,ABSENTEE,N,Provisional,1,,-14.286,0,matched
+TYRRELL,EARLY VOTING,N,Provisional,1,,-14.286,0,matched
+TYRRELL,PROVISIONAL,N,Provisional,1,,-14.286,7,matched
+TYRRELL,TRANSFER,N,Provisional,1,,-14.286,0,matched
+VANCE,CC,Y,Absentee by Mail,1,,8.955,67,matched
+VANCE,CH,Y,Absentee by Mail,1,,63.793,58,matched
+VANCE,KITT,Y,Absentee by Mail,1,,0,91,matched
+VANCE,MIDD,Y,Absentee by Mail,1,,-16.129,62,matched
+VANCE,NV,Y,Absentee by Mail,1,,40,20,matched
+VANCE,SCRK,Y,Absentee by Mail,1,,20.482,83,matched
+VANCE,SH,Y,Absentee by Mail,1,,60.784,51,matched
+VANCE,TWN,Y,Absentee by Mail,1,,28.409,88,matched
+VANCE,WH,Y,Absentee by Mail,1,,24.167,120,matched
+VANCE,CC,Y,Early Voting,1,,-11.57,1720,matched
+VANCE,CH,Y,Early Voting,1,,81.198,1553,matched
+VANCE,KITT,Y,Early Voting,1,,-18.571,1987,matched
+VANCE,MIDD,Y,Early Voting,1,,-3.465,1472,matched
+VANCE,NV,Y,Early Voting,1,,11.901,605,matched
+VANCE,SCRK,Y,Early Voting,1,,1.474,2306,matched
+VANCE,SH,Y,Early Voting,1,,42.991,1391,matched
+VANCE,TWN,Y,Early Voting,1,,1.224,1879,matched
+VANCE,WH,Y,Early Voting,1,,12.817,2052,matched
+VANCE,CC,Y,Election Day,1,,-6.775,369,matched
+VANCE,CH,Y,Election Day,1,,75.185,540,matched
+VANCE,KITT,Y,Election Day,1,,-22.07,657,matched
+VANCE,MIDD,Y,Election Day,1,,14.857,525,matched
+VANCE,NV,Y,Election Day,1,,21.25,160,matched
+VANCE,SCRK,Y,Election Day,1,,25.54,556,matched
+VANCE,SH,Y,Election Day,1,,39.964,563,matched
+VANCE,TWN,Y,Election Day,1,,12.169,567,matched
+VANCE,WH,Y,Election Day,1,,20.08,498,matched
+VANCE,CC,Y,Provisional,1,,36.538,3,matched
+VANCE,CH,Y,Provisional,1,,36.538,6,matched
+VANCE,KITT,Y,Provisional,1,,36.538,6,matched
+VANCE,MIDD,Y,Provisional,1,,36.538,4,matched
+VANCE,NV,Y,Provisional,1,,36.538,0,matched
+VANCE,SCRK,Y,Provisional,1,,36.538,6,matched
+VANCE,SH,Y,Provisional,1,,36.538,3,matched
+VANCE,TWN,Y,Provisional,1,,46.667,15,matched
+VANCE,WH,Y,Provisional,1,,36.538,9,matched
+WARREN,001,Y,Absentee by Mail,1,,18.519,54,matched
+WARREN,002,Y,Absentee by Mail,1,,-3.846,26,matched
+WARREN,003,Y,Absentee by Mail,1,,50,20,matched
+WARREN,004,Y,Absentee by Mail,1,,45.455,11,matched
+WARREN,005,Y,Absentee by Mail,1,,89.474,19,matched
+WARREN,006,Y,Absentee by Mail,1,,76.471,17,matched
+WARREN,007,Y,Absentee by Mail,1,,10.526,19,matched
+WARREN,008,Y,Absentee by Mail,1,,72.414,29,matched
+WARREN,009,Y,Absentee by Mail,1,,50,10,matched
+WARREN,010,Y,Absentee by Mail,1,,43.243,37,matched
+WARREN,011,Y,Absentee by Mail,1,,38.596,6,matched
+WARREN,012,Y,Absentee by Mail,1,,25.806,62,matched
+WARREN,013,Y,Absentee by Mail,1,,38.596,9,matched
+WARREN,014,Y,Absentee by Mail,1,,30.435,23,matched
+WARREN,001,Y,Early Voting,1,,-20.695,604,matched
+WARREN,002,Y,Early Voting,1,,-17.148,519,matched
+WARREN,003,Y,Early Voting,1,,26.126,444,matched
+WARREN,004,Y,Early Voting,1,,26.735,389,matched
+WARREN,005,Y,Early Voting,1,,43.344,616,matched
+WARREN,006,Y,Early Voting,1,,34.347,559,matched
+WARREN,007,Y,Early Voting,1,,23.317,416,matched
+WARREN,008,Y,Early Voting,1,,63.423,555,matched
+WARREN,009,Y,Early Voting,1,,10.764,288,matched
+WARREN,010,Y,Early Voting,1,,55.531,913,matched
+WARREN,011,Y,Early Voting,1,,29.078,141,matched
+WARREN,012,Y,Early Voting,1,,-33.548,465,matched
+WARREN,013,Y,Early Voting,1,,30.189,265,matched
+WARREN,014,Y,Early Voting,1,,40.909,682,matched
+WARREN,001,Y,Election Day,1,,-38.545,275,matched
+WARREN,002,Y,Election Day,1,,-51.244,201,matched
+WARREN,003,Y,Election Day,1,,-3.361,238,matched
+WARREN,004,Y,Election Day,1,,-25.389,193,matched
+WARREN,005,Y,Election Day,1,,51.02,245,matched
+WARREN,006,Y,Election Day,1,,18.182,253,matched
+WARREN,007,Y,Election Day,1,,32.593,135,matched
+WARREN,008,Y,Election Day,1,,60.833,240,matched
+WARREN,009,Y,Election Day,1,,-9.346,107,matched
+WARREN,010,Y,Election Day,1,,38.208,212,matched
+WARREN,011,Y,Election Day,1,,-12.644,87,matched
+WARREN,012,Y,Election Day,1,,-47.203,286,matched
+WARREN,013,Y,Election Day,1,,-14.458,166,matched
+WARREN,014,Y,Election Day,1,,40.667,150,matched
+WARREN,001,Y,Provisional,1,,40.741,1,matched
+WARREN,002,Y,Provisional,1,,40.741,1,matched
+WARREN,003,Y,Provisional,1,,40.741,4,matched
+WARREN,004,Y,Provisional,1,,40.741,2,matched
+WARREN,005,Y,Provisional,1,,40.741,1,matched
+WARREN,006,Y,Provisional,1,,40.741,5,matched
+WARREN,007,Y,Provisional,1,,40.741,0,matched
+WARREN,008,Y,Provisional,1,,40.741,2,matched
+WARREN,009,Y,Provisional,1,,40.741,1,matched
+WARREN,010,Y,Provisional,1,,40.741,1,matched
+WARREN,011,Y,Provisional,1,,40.741,0,matched
+WARREN,012,Y,Provisional,1,,40.741,2,matched
+WARREN,013,Y,Provisional,1,,40.741,6,matched
+WARREN,014,Y,Provisional,1,,40.741,1,matched
+WASHINGTON,ABSENTEE,N,Absentee by Mail,1,,5.732,157,matched
+WASHINGTON,EARLY VOTING,N,Absentee by Mail,1,,5.732,0,matched
+WASHINGTON,LM,Y,Absentee by Mail,1,,5.732,0,matched
+WASHINGTON,P1,Y,Absentee by Mail,1,,5.732,0,matched
+WASHINGTON,P2,Y,Absentee by Mail,1,,5.732,0,matched
+WASHINGTON,P3,Y,Absentee by Mail,1,,5.732,0,matched
+WASHINGTON,PROVISIONAL,N,Absentee by Mail,1,,5.732,0,matched
+WASHINGTON,SC,Y,Absentee by Mail,1,,5.732,0,matched
+WASHINGTON,SK,Y,Absentee by Mail,1,,5.732,0,matched
+WASHINGTON,TRANSFER,N,Absentee by Mail,1,,5.732,0,matched
+WASHINGTON,ABSENTEE,N,Early Voting,1,,6.902,0,matched
+WASHINGTON,EARLY VOTING,N,Early Voting,1,,6.902,4158,matched
+WASHINGTON,LM,Y,Early Voting,1,,6.902,0,matched
+WASHINGTON,P1,Y,Early Voting,1,,6.902,0,matched
+WASHINGTON,P2,Y,Early Voting,1,,6.902,0,matched
+WASHINGTON,P3,Y,Early Voting,1,,6.902,0,matched
+WASHINGTON,PROVISIONAL,N,Early Voting,1,,6.902,0,matched
+WASHINGTON,SC,Y,Early Voting,1,,6.902,0,matched
+WASHINGTON,SK,Y,Early Voting,1,,6.902,0,matched
+WASHINGTON,TRANSFER,N,Early Voting,1,,6.902,0,matched
+WASHINGTON,ABSENTEE,N,Election Day,1,,4.237,0,matched
+WASHINGTON,EARLY VOTING,N,Election Day,1,,4.237,0,matched
+WASHINGTON,LM,Y,Election Day,1,,38.919,185,matched
+WASHINGTON,P1,Y,Election Day,1,,34.127,252,matched
+WASHINGTON,P2,Y,Election Day,1,,56.019,216,matched
+WASHINGTON,P3,Y,Election Day,1,,-8.776,433,matched
+WASHINGTON,PROVISIONAL,N,Election Day,1,,4.237,0,matched
+WASHINGTON,SC,Y,Election Day,1,,-27.188,320,matched
+WASHINGTON,SK,Y,Election Day,1,,-43.216,199,matched
+WASHINGTON,TRANSFER,N,Election Day,1,,4.237,0,matched
+WASHINGTON,ABSENTEE,N,Provisional,1,,25,0,matched
+WASHINGTON,EARLY VOTING,N,Provisional,1,,25,0,matched
+WASHINGTON,LM,Y,Provisional,1,,25,0,matched
+WASHINGTON,P1,Y,Provisional,1,,25,0,matched
+WASHINGTON,P2,Y,Provisional,1,,25,0,matched
+WASHINGTON,P3,Y,Provisional,1,,25,0,matched
+WASHINGTON,PROVISIONAL,N,Provisional,1,,25,24,matched
+WASHINGTON,SC,Y,Provisional,1,,25,0,matched
+WASHINGTON,SK,Y,Provisional,1,,25,0,matched
+WASHINGTON,TRANSFER,N,Provisional,1,,25,0,matched
+WAYNE,01,Y,Absentee by Mail,1,,-33.333,39,matched
+WAYNE,02,Y,Absentee by Mail,1,,-3.03,66,matched
+WAYNE,03,Y,Absentee by Mail,1,,-24.096,83,matched
+WAYNE,04,Y,Absentee by Mail,1,,4.31,116,matched
+WAYNE,05,Y,Absentee by Mail,1,,-3.361,119,matched
+WAYNE,06,Y,Absentee by Mail,1,,28.571,56,matched
+WAYNE,07,Y,Absentee by Mail,1,,10,120,matched
+WAYNE,08,Y,Absentee by Mail,1,,-35.897,39,matched
+WAYNE,09,Y,Absentee by Mail,1,,6.061,66,matched
+WAYNE,10,Y,Absentee by Mail,1,,61.404,57,matched
+WAYNE,11,Y,Absentee by Mail,1,,15.385,130,matched
+WAYNE,12,Y,Absentee by Mail,1,,33.913,115,matched
+WAYNE,13,Y,Absentee by Mail,1,,18.421,38,matched
+WAYNE,14,Y,Absentee by Mail,1,,0,118,matched
+WAYNE,15,Y,Absentee by Mail,1,,-28.75,80,matched
+WAYNE,16,Y,Absentee by Mail,1,,5.405,37,matched
+WAYNE,17,Y,Absentee by Mail,1,,30,20,matched
+WAYNE,18,Y,Absentee by Mail,1,,72.727,22,matched
+WAYNE,1920,Y,Absentee by Mail,1,,66.176,68,matched
+WAYNE,21,Y,Absentee by Mail,1,,28.571,42,matched
+WAYNE,22,Y,Absentee by Mail,1,,0,48,matched
+WAYNE,23,Y,Absentee by Mail,1,,7.843,51,matched
+WAYNE,24,Y,Absentee by Mail,1,,-50,46,matched
+WAYNE,2530,Y,Absentee by Mail,1,,6.098,82,matched
+WAYNE,26,Y,Absentee by Mail,1,,47.727,44,matched
+WAYNE,27,Y,Absentee by Mail,1,,18.182,33,matched
+WAYNE,28,Y,Absentee by Mail,1,,1.695,59,matched
+WAYNE,29,Y,Absentee by Mail,1,,74.074,54,matched
+WAYNE,ABSENTEE,N,Absentee by Mail,1,,10.66,,county_method
+WAYNE,EV GBORO LIBRARY,N,Absentee by Mail,1,,10.66,,county_method
+WAYNE,EV MAXWELL CENTER,N,Absentee by Mail,1,,10.66,,county_method
+WAYNE,EV MT O LIBRARY,N,Absentee by Mail,1,,10.66,,county_method
+WAYNE,PROVISIONAL,N,Absentee by Mail,1,,10.66,,county_method
+WAYNE,TRANSFER,N,Absentee by Mail,1,,10.66,,county_method
+WAYNE,01,Y,Early Voting,1,,-44.136,1475,matched
+WAYNE,02,Y,Early Voting,1,,-47.43,2374,matched
+WAYNE,03,Y,Early Voting,1,,-53.534,2094,matched
+WAYNE,04,Y,Early Voting,1,,-50.342,2924,matched
+WAYNE,05,Y,Early Voting,1,,-40.96,2583,matched
+WAYNE,06,Y,Early Voting,1,,-16.267,1709,matched
+WAYNE,07,Y,Early Voting,1,,-29.164,2846,matched
+WAYNE,08,Y,Early Voting,1,,-53.475,1554,matched
+WAYNE,09,Y,Early Voting,1,,-45.859,1618,matched
+WAYNE,10,Y,Early Voting,1,,41.185,726,matched
+WAYNE,11,Y,Early Voting,1,,14.545,1430,matched
+WAYNE,12,Y,Early Voting,1,,14.753,1986,matched
+WAYNE,13,Y,Early Voting,1,,27.479,1059,matched
+WAYNE,14,Y,Early Voting,1,,-40.378,2167,matched
+WAYNE,15,Y,Early Voting,1,,-39.84,1747,matched
+WAYNE,16,Y,Early Voting,1,,-28.606,1241,matched
+WAYNE,17,Y,Early Voting,1,,77.703,444,matched
+WAYNE,18,Y,Early Voting,1,,54.662,547,matched
+WAYNE,1920,Y,Early Voting,1,,75.381,1312,matched
+WAYNE,21,Y,Early Voting,1,,41.863,977,matched
+WAYNE,22,Y,Early Voting,1,,7.569,938,matched
+WAYNE,23,Y,Early Voting,1,,-2.64,909,matched
+WAYNE,24,Y,Early Voting,1,,-71.757,1480,matched
+WAYNE,2530,Y,Early Voting,1,,-5.474,1918,matched
+WAYNE,26,Y,Early Voting,1,,4.571,1225,matched
+WAYNE,27,Y,Early Voting,1,,44.212,812,matched
+WAYNE,28,Y,Early Voting,1,,-25.235,1700,matched
+WAYNE,29,Y,Early Voting,1,,35.861,923,matched
+WAYNE,ABSENTEE,N,Early Voting,1,,-18.037,,county_method
+WAYNE,EV GBORO LIBRARY,N,Early Voting,1,,-18.037,,county_method
+WAYNE,EV MAXWELL CENTER,N,Early Voting,1,,-18.037,,county_method
+WAYNE,EV MT O LIBRARY,N,Early Voting,1,,-18.037,,county_method
+WAYNE,PROVISIONAL,N,Early Voting,1,,-18.037,,county_method
+WAYNE,TRANSFER,N,Early Voting,1,,-18.037,,county_method
+WAYNE,01,Y,Election Day,1,,-28,250,matched
+WAYNE,02,Y,Election Day,1,,-39.264,489,matched
+WAYNE,03,Y,Election Day,1,,-46.154,572,matched
+WAYNE,04,Y,Election Day,1,,-40.28,643,matched
+WAYNE,05,Y,Election Day,1,,-41.067,375,matched
+WAYNE,06,Y,Election Day,1,,-8.425,273,matched
+WAYNE,07,Y,Election Day,1,,-31.471,537,matched
+WAYNE,08,Y,Election Day,1,,-66.74,457,matched
+WAYNE,09,Y,Election Day,1,,-39.726,365,matched
+WAYNE,10,Y,Election Day,1,,48.472,229,matched
+WAYNE,11,Y,Election Day,1,,42.46,252,matched
+WAYNE,12,Y,Election Day,1,,23.513,353,matched
+WAYNE,13,Y,Election Day,1,,35.521,259,matched
+WAYNE,14,Y,Election Day,1,,-42.727,440,matched
+WAYNE,15,Y,Election Day,1,,-38.589,482,matched
+WAYNE,16,Y,Election Day,1,,-24.242,330,matched
+WAYNE,17,Y,Election Day,1,,65.359,153,matched
+WAYNE,18,Y,Election Day,1,,46.707,167,matched
+WAYNE,1920,Y,Election Day,1,,72.622,347,matched
+WAYNE,21,Y,Election Day,1,,40.93,215,matched
+WAYNE,22,Y,Election Day,1,,5.046,218,matched
+WAYNE,23,Y,Election Day,1,,-12.121,264,matched
+WAYNE,24,Y,Election Day,1,,-76.265,573,matched
+WAYNE,2530,Y,Election Day,1,,12.895,380,matched
+WAYNE,26,Y,Election Day,1,,-1.796,334,matched
+WAYNE,27,Y,Election Day,1,,37.387,222,matched
+WAYNE,28,Y,Election Day,1,,-18.327,502,matched
+WAYNE,29,Y,Election Day,1,,39.037,187,matched
+WAYNE,ABSENTEE,N,Election Day,1,,-14.947,,county_method
+WAYNE,EV GBORO LIBRARY,N,Election Day,1,,-14.947,,county_method
+WAYNE,EV MAXWELL CENTER,N,Election Day,1,,-14.947,,county_method
+WAYNE,EV MT O LIBRARY,N,Election Day,1,,-14.947,,county_method
+WAYNE,PROVISIONAL,N,Election Day,1,,-14.947,,county_method
+WAYNE,TRANSFER,N,Election Day,1,,-14.947,,county_method
+WAYNE,01,Y,Provisional,1,,10,10,matched
+WAYNE,02,Y,Provisional,1,,-20,15,matched
+WAYNE,03,Y,Provisional,1,,-71.429,14,matched
+WAYNE,04,Y,Provisional,1,,6.402,9,matched
+WAYNE,05,Y,Provisional,1,,6.402,9,matched
+WAYNE,06,Y,Provisional,1,,6.402,3,matched
+WAYNE,07,Y,Provisional,1,,-20,15,matched
+WAYNE,08,Y,Provisional,1,,-62.5,16,matched
+WAYNE,09,Y,Provisional,1,,6.402,7,matched
+WAYNE,10,Y,Provisional,1,,20,10,matched
+WAYNE,11,Y,Provisional,1,,6.402,7,matched
+WAYNE,12,Y,Provisional,1,,6.402,7,matched
+WAYNE,13,Y,Provisional,1,,6.402,5,matched
+WAYNE,14,Y,Provisional,1,,-9.091,11,matched
+WAYNE,15,Y,Provisional,1,,-20,25,matched
+WAYNE,16,Y,Provisional,1,,45.455,11,matched
+WAYNE,17,Y,Provisional,1,,82.353,17,matched
+WAYNE,18,Y,Provisional,1,,73.333,15,matched
+WAYNE,1920,Y,Provisional,1,,60,15,matched
+WAYNE,21,Y,Provisional,1,,6.402,9,matched
+WAYNE,22,Y,Provisional,1,,6.402,5,matched
+WAYNE,23,Y,Provisional,1,,6.402,7,matched
+WAYNE,24,Y,Provisional,1,,-69.231,13,matched
+WAYNE,2530,Y,Provisional,1,,14.286,14,matched
+WAYNE,26,Y,Provisional,1,,83.333,12,matched
+WAYNE,27,Y,Provisional,1,,6.402,6,matched
+WAYNE,28,Y,Provisional,1,,5.263,38,matched
+WAYNE,29,Y,Provisional,1,,6.402,3,matched
+WAYNE,ABSENTEE,N,Provisional,1,,6.402,,county_method
+WAYNE,EV GBORO LIBRARY,N,Provisional,1,,6.402,,county_method
+WAYNE,EV MAXWELL CENTER,N,Provisional,1,,6.402,,county_method
+WAYNE,EV MT O LIBRARY,N,Provisional,1,,6.402,,county_method
+WAYNE,PROVISIONAL,N,Provisional,1,,6.402,,county_method
+WAYNE,TRANSFER,N,Provisional,1,,6.402,,county_method
+WILSON,PRBL,Y,Absentee by Mail,1,,-35.714,28,matched
+WILSON,PRCR,Y,Absentee by Mail,1,,-11.628,43,matched
+WILSON,PRGA,Y,Absentee by Mail,1,,23.81,42,matched
+WILSON,PROL,Y,Absentee by Mail,1,,-10.526,76,matched
+WILSON,PRSA,Y,Absentee by Mail,1,,-5.882,17,matched
+WILSON,PRSP,Y,Absentee by Mail,1,,-31.707,41,matched
+WILSON,PRST,Y,Absentee by Mail,1,,13.793,29,matched
+WILSON,PRTA,Y,Absentee by Mail,1,,8.197,183,matched
+WILSON,PRTO,Y,Absentee by Mail,1,,15.464,97,matched
+WILSON,PRWA,Y,Absentee by Mail,1,,44.444,18,matched
+WILSON,PRWB,Y,Absentee by Mail,1,,71.429,14,matched
+WILSON,PRWC,Y,Absentee by Mail,1,,82.353,34,matched
+WILSON,PRWD,Y,Absentee by Mail,1,,10.606,66,matched
+WILSON,PRWE,Y,Absentee by Mail,1,,47.368,19,matched
+WILSON,PRWH,Y,Absentee by Mail,1,,16.514,4,matched
+WILSON,PRWI,Y,Absentee by Mail,1,,33.333,51,matched
+WILSON,PRWJ,Y,Absentee by Mail,1,,34.921,126,matched
+WILSON,PRWK,Y,Absentee by Mail,1,,12.698,63,matched
+WILSON,PRWL,Y,Absentee by Mail,1,,26.316,76,matched
+WILSON,PRWM,Y,Absentee by Mail,1,,-7.692,143,matched
+WILSON,PRWN,Y,Absentee by Mail,1,,92.308,39,matched
+WILSON,PRWP,Y,Absentee by Mail,1,,14.545,55,matched
+WILSON,PRWQ,Y,Absentee by Mail,1,,83.333,12,matched
+WILSON,PRWR,Y,Absentee by Mail,1,,42.105,38,matched
+WILSON,PRBL,Y,Early Voting,1,,-48.491,1491,matched
+WILSON,PRCR,Y,Early Voting,1,,-43.221,1217,matched
+WILSON,PRGA,Y,Early Voting,1,,-8.783,1150,matched
+WILSON,PROL,Y,Early Voting,1,,-47.581,2728,matched
+WILSON,PRSA,Y,Early Voting,1,,3.347,478,matched
+WILSON,PRSP,Y,Early Voting,1,,-33.879,1160,matched
+WILSON,PRST,Y,Early Voting,1,,2.806,677,matched
+WILSON,PRTA,Y,Early Voting,1,,-10.894,4094,matched
+WILSON,PRTO,Y,Early Voting,1,,-18.182,2068,matched
+WILSON,PRWA,Y,Early Voting,1,,66.5,400,matched
+WILSON,PRWB,Y,Early Voting,1,,78.767,438,matched
+WILSON,PRWC,Y,Early Voting,1,,73.632,804,matched
+WILSON,PRWD,Y,Early Voting,1,,-16.379,1044,matched
+WILSON,PRWE,Y,Early Voting,1,,40.769,650,matched
+WILSON,PRWH,Y,Early Voting,1,,81.646,316,matched
+WILSON,PRWI,Y,Early Voting,1,,43.605,860,matched
+WILSON,PRWJ,Y,Early Voting,1,,21.184,2332,matched
+WILSON,PRWK,Y,Early Voting,1,,-13.872,1002,matched
+WILSON,PRWL,Y,Early Voting,1,,-0.63,1428,matched
+WILSON,PRWM,Y,Early Voting,1,,2.03,2709,matched
+WILSON,PRWN,Y,Early Voting,1,,83.449,1154,matched
+WILSON,PRWP,Y,Early Voting,1,,-13.765,988,matched
+WILSON,PRWQ,Y,Early Voting,1,,89.347,291,matched
+WILSON,PRWR,Y,Early Voting,1,,77.019,644,matched
+WILSON,PRBL,Y,Election Day,1,,-49.585,603,matched
+WILSON,PRCR,Y,Election Day,1,,-44.468,479,matched
+WILSON,PRGA,Y,Election Day,1,,-32.389,494,matched
+WILSON,PROL,Y,Election Day,1,,-43.988,657,matched
+WILSON,PRSA,Y,Election Day,1,,-21.374,262,matched
+WILSON,PRSP,Y,Election Day,1,,-60.87,483,matched
+WILSON,PRST,Y,Election Day,1,,-4.732,317,matched
+WILSON,PRTA,Y,Election Day,1,,0.113,887,matched
+WILSON,PRTO,Y,Election Day,1,,-11.897,622,matched
+WILSON,PRWA,Y,Election Day,1,,51.034,145,matched
+WILSON,PRWB,Y,Election Day,1,,77.914,163,matched
+WILSON,PRWC,Y,Election Day,1,,75.785,223,matched
+WILSON,PRWD,Y,Election Day,1,,-23.42,269,matched
+WILSON,PRWE,Y,Election Day,1,,31.959,194,matched
+WILSON,PRWH,Y,Election Day,1,,78.182,165,matched
+WILSON,PRWI,Y,Election Day,1,,42.654,211,matched
+WILSON,PRWJ,Y,Election Day,1,,29.167,384,matched
+WILSON,PRWK,Y,Election Day,1,,-13.942,208,matched
+WILSON,PRWL,Y,Election Day,1,,2.326,344,matched
+WILSON,PRWM,Y,Election Day,1,,17.939,524,matched
+WILSON,PRWN,Y,Election Day,1,,77.273,352,matched
+WILSON,PRWP,Y,Election Day,1,,-7.595,237,matched
+WILSON,PRWQ,Y,Election Day,1,,82.979,94,matched
+WILSON,PRWR,Y,Election Day,1,,65.877,211,matched
+WILSON,PRBL,Y,Provisional,1,,13.75,3,matched
+WILSON,PRCR,Y,Provisional,1,,13.75,4,matched
+WILSON,PRGA,Y,Provisional,1,,13.75,7,matched
+WILSON,PROL,Y,Provisional,1,,13.75,4,matched
+WILSON,PRSA,Y,Provisional,1,,13.75,0,matched
+WILSON,PRSP,Y,Provisional,1,,13.75,4,matched
+WILSON,PRST,Y,Provisional,1,,13.75,2,matched
+WILSON,PRTA,Y,Provisional,1,,13.75,6,matched
+WILSON,PRTO,Y,Provisional,1,,10,10,matched
+WILSON,PRWA,Y,Provisional,1,,13.75,0,matched
+WILSON,PRWB,Y,Provisional,1,,13.75,2,matched
+WILSON,PRWC,Y,Provisional,1,,13.75,1,matched
+WILSON,PRWD,Y,Provisional,1,,13.75,0,matched
+WILSON,PRWE,Y,Provisional,1,,13.75,2,matched
+WILSON,PRWH,Y,Provisional,1,,13.75,1,matched
+WILSON,PRWI,Y,Provisional,1,,13.75,3,matched
+WILSON,PRWJ,Y,Provisional,1,,36.364,11,matched
+WILSON,PRWK,Y,Provisional,1,,13.75,0,matched
+WILSON,PRWL,Y,Provisional,1,,13.75,0,matched
+WILSON,PRWM,Y,Provisional,1,,13.75,7,matched
+WILSON,PRWN,Y,Provisional,1,,13.75,1,matched
+WILSON,PRWP,Y,Provisional,1,,13.75,7,matched
+WILSON,PRWQ,Y,Provisional,1,,13.75,0,matched
+WILSON,PRWR,Y,Provisional,1,,13.75,5,matched
+BERTIE,*,,Absentee by Mail,1,1,43.558,,fallback
+BERTIE,*,,Early Voting,1,1,16.715,,fallback
+BERTIE,*,,Election Day,1,1,10.298,,fallback
+BERTIE,*,,Provisional,1,1,38.596,,fallback
+CAMDEN,*,,Absentee by Mail,1,1,-9.231,,fallback
+CAMDEN,*,,Early Voting,1,1,-49.044,,fallback
+CAMDEN,*,,Election Day,1,1,-59.293,,fallback
+CAMDEN,*,,Provisional,1,1,-50,,fallback
+CHOWAN,*,,Absentee by Mail,1,1,9.251,,fallback
+CHOWAN,*,,Early Voting,1,1,-23.856,,fallback
+CHOWAN,*,,Election Day,1,1,-22.543,,fallback
+CHOWAN,*,,Provisional,1,1,42.857,,fallback
+CURRITUCK,*,,Absentee by Mail,1,1,-15.247,,fallback
+CURRITUCK,*,,Early Voting,1,1,-47.347,,fallback
+CURRITUCK,*,,Election Day,1,1,-51.641,,fallback
+CURRITUCK,*,,Provisional,1,1,-47.959,,fallback
+EDGECOMBE,*,,Absentee by Mail,1,1,35.729,,fallback
+EDGECOMBE,*,,Early Voting,1,1,24.514,,fallback
+EDGECOMBE,*,,Election Day,1,1,14.949,,fallback
+EDGECOMBE,*,,Provisional,1,1,36.264,,fallback
+GATES,*,,Absentee by Mail,1,1,22.308,,fallback
+GATES,*,,Early Voting,1,1,-11.72,,fallback
+GATES,*,,Election Day,1,1,-42.532,,fallback
+GATES,*,,Provisional,1,1,-23.333,,fallback
+GRANVILLE,*,,Absentee by Mail,,0.1162,24.381,,fallback
+GRANVILLE,*,,Early Voting,,0.1795,27.383,,fallback
+GRANVILLE,*,,Election Day,,0.193,29.385,,fallback
+GRANVILLE,*,,Provisional,,0.3089,51.205,,fallback
+GREENE,*,,Absentee by Mail,1,1,33.216,,fallback
+GREENE,*,,Early Voting,1,1,-17.741,,fallback
+GREENE,*,,Election Day,1,1,-26.423,,fallback
+GREENE,*,,Provisional,1,1,12.5,,fallback
+HALIFAX,*,,Absentee by Mail,1,1,27.833,,fallback
+HALIFAX,*,,Early Voting,1,1,17.684,,fallback
+HALIFAX,*,,Election Day,1,1,16.966,,fallback
+HALIFAX,*,,Provisional,1,1,14.286,,fallback
+HERTFORD,*,,Absentee by Mail,1,1,58.257,,fallback
+HERTFORD,*,,Early Voting,1,1,27.589,,fallback
+HERTFORD,*,,Election Day,1,1,21.771,,fallback
+HERTFORD,*,,Provisional,1,1,13.043,,fallback
+LENOIR,*,,Absentee by Mail,1,1,18.056,,fallback
+LENOIR,*,,Early Voting,1,1,-7.238,,fallback
+LENOIR,*,,Election Day,1,1,-9.337,,fallback
+LENOIR,*,,Provisional,1,1,14.563,,fallback
+MARTIN,*,,Absentee by Mail,1,1,29.252,,fallback
+MARTIN,*,,Early Voting,1,1,-5.222,,fallback
+MARTIN,*,,Election Day,1,1,-22.336,,fallback
+MARTIN,*,,Provisional,1,1,11.111,,fallback
+NASH,*,,Absentee by Mail,1,1,22.61,,fallback
+NASH,*,,Early Voting,1,1,-2.756,,fallback
+NASH,*,,Election Day,1,1,-1.386,,fallback
+NASH,*,,Provisional,1,1,19.048,,fallback
+NORTHAMPTON,*,,Absentee by Mail,1,1,35.176,,fallback
+NORTHAMPTON,*,,Early Voting,1,1,18.595,,fallback
+NORTHAMPTON,*,,Election Day,1,1,3.188,,fallback
+NORTHAMPTON,*,,Provisional,1,1,30.769,,fallback
+PASQUOTANK,*,,Absentee by Mail,1,1,18.615,,fallback
+PASQUOTANK,*,,Early Voting,1,1,-1.355,,fallback
+PASQUOTANK,*,,Election Day,1,1,-18.37,,fallback
+PASQUOTANK,*,,Provisional,1,1,-6.818,,fallback
+PERQUIMANS,*,,Absentee by Mail,1,1,-8.511,,fallback
+PERQUIMANS,*,,Early Voting,1,1,-40.14,,fallback
+PERQUIMANS,*,,Election Day,1,1,-39.682,,fallback
+PERQUIMANS,*,,Provisional,1,1,-42.857,,fallback
+TYRRELL,*,,Absentee by Mail,1,1,64.706,,fallback
+TYRRELL,*,,Early Voting,1,1,-29.004,,fallback
+TYRRELL,*,,Election Day,1,1,-8.997,,fallback
+TYRRELL,*,,Provisional,1,1,-14.286,,fallback
+VANCE,*,,Absentee by Mail,1,1,22.344,,fallback
+VANCE,*,,Early Voting,1,1,10.905,,fallback
+VANCE,*,,Election Day,1,1,19.932,,fallback
+VANCE,*,,Provisional,1,1,36.538,,fallback
+WARREN,*,,Absentee by Mail,1,1,38.596,,fallback
+WARREN,*,,Early Voting,1,1,24.737,,fallback
+WARREN,*,,Election Day,1,1,2.044,,fallback
+WARREN,*,,Provisional,1,1,40.741,,fallback
+WASHINGTON,*,,Absentee by Mail,1,1,5.732,,fallback
+WASHINGTON,*,,Early Voting,1,1,6.902,,fallback
+WASHINGTON,*,,Election Day,1,1,4.237,,fallback
+WASHINGTON,*,,Provisional,1,1,25,,fallback
+WAYNE,*,,Absentee by Mail,1,1,10.66,,fallback
+WAYNE,*,,Early Voting,1,1,-18.037,,fallback
+WAYNE,*,,Election Day,1,1,-14.947,,fallback
+WAYNE,*,,Provisional,1,1,6.402,,fallback
+WILSON,*,,Absentee by Mail,1,1,16.514,,fallback
+WILSON,*,,Early Voting,1,1,0.285,,fallback
+WILSON,*,,Election Day,1,1,-1.818,,fallback
+WILSON,*,,Provisional,1,1,13.75,,fallback

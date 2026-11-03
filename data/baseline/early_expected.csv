@@ -1,0 +1,332 @@
+county,unit,method,A,src
+BEAUFORT,EV-AUR,Early Voting,450,site
+BEAUFORT,EV-BEL,Early Voting,886,site
+BEAUFORT,EV-BOE,Early Voting,8428,site
+BEAUFORT,EV-CHO,Early Voting,2986,site
+BEAUFORT,ABSENTEE,Absentee by Mail,250,county
+BERTIE,EV-LOB,Early Voting,2538,site
+BERTIE,EV-LW,Early Voting,678,site
+BERTIE,EV-POW,Early Voting,967,site
+BERTIE,ABSENTEE,Absentee by Mail,48,county
+CAMDEN,CH,Early Voting,675.4,alloc_by_ed
+CAMDEN,SH,Early Voting,691.04,alloc_by_ed
+CAMDEN,SM,Early Voting,1127.56,alloc_by_ed
+CAMDEN,CH,Absentee by Mail,16.52,alloc_by_ed
+CAMDEN,SH,Absentee by Mail,16.9,alloc_by_ed
+CAMDEN,SM,Absentee by Mail,27.58,alloc_by_ed
+CARTERET,ABCH,Early Voting,475.02,precinct
+CARTERET,ASCI,Early Voting,224.01,precinct
+CARTERET,BCRK,Early Voting,789.03,precinct
+CARTERET,BFT1,Early Voting,740.03,precinct
+CARTERET,BFT2,Early Voting,2058.09,precinct
+CARTERET,BOGE,Early Voting,1419.06,precinct
+CARTERET,CAPE,Early Voting,1930.08,precinct
+CARTERET,DASW,Early Voting,203.01,precinct
+CARTERET,HAIS,Early Voting,387.02,precinct
+CARTERET,IBPK,Early Voting,738.03,precinct
+CARTERET,ISLE,Early Voting,2060.09,precinct
+CARTERET,MASM,Early Voting,269.01,precinct
+CARTERET,MCRK,Early Voting,116,precinct
+CARTERET,MERR,Early Voting,195.01,precinct
+CARTERET,MHD1,Early Voting,910.04,precinct
+CARTERET,MHD2,Early Voting,886.04,precinct
+CARTERET,MHD3,Early Voting,1309.06,precinct
+CARTERET,MHD4,Early Voting,1353.06,precinct
+CARTERET,NPT1,Early Voting,1283.05,precinct
+CARTERET,NPT2,Early Voting,1246.05,precinct
+CARTERET,NRIV,Early Voting,306.01,precinct
+CARTERET,OTBEG,Early Voting,818.03,precinct
+CARTERET,PELE,Early Voting,689.03,precinct
+CARTERET,STEL,Early Voting,676.03,precinct
+CARTERET,WIHA,Early Voting,943.04,precinct
+CARTERET,WILD,Early Voting,1383.06,precinct
+CARTERET,ABCH,Absentee by Mail,29.04,precinct
+CARTERET,ASCI,Absentee by Mail,4.01,precinct
+CARTERET,BCRK,Absentee by Mail,30.05,precinct
+CARTERET,BFT1,Absentee by Mail,24.04,precinct
+CARTERET,BFT2,Absentee by Mail,44.07,precinct
+CARTERET,BOGE,Absentee by Mail,43.07,precinct
+CARTERET,CAPE,Absentee by Mail,54.08,precinct
+CARTERET,DASW,Absentee by Mail,3,precinct
+CARTERET,HAIS,Absentee by Mail,10.02,precinct
+CARTERET,IBPK,Absentee by Mail,13.02,precinct
+CARTERET,ISLE,Absentee by Mail,79.12,precinct
+CARTERET,MASM,Absentee by Mail,4.01,precinct
+CARTERET,MCRK,Absentee by Mail,2,precinct
+CARTERET,MERR,Absentee by Mail,6.01,precinct
+CARTERET,MHD1,Absentee by Mail,36.06,precinct
+CARTERET,MHD2,Absentee by Mail,25.04,precinct
+CARTERET,MHD3,Absentee by Mail,24.04,precinct
+CARTERET,MHD4,Absentee by Mail,36.06,precinct
+CARTERET,NPT1,Absentee by Mail,19.03,precinct
+CARTERET,NPT2,Absentee by Mail,36.06,precinct
+CARTERET,NRIV,Absentee by Mail,3,precinct
+CARTERET,OTBEG,Absentee by Mail,8.01,precinct
+CARTERET,PELE,Absentee by Mail,15.02,precinct
+CARTERET,STEL,Absentee by Mail,47.07,precinct
+CARTERET,WIHA,Absentee by Mail,24.04,precinct
+CARTERET,WILD,Absentee by Mail,33.05,precinct
+CHOWAN,1,Early Voting,860.88,precinct
+CHOWAN,2,Early Voting,1466.2,precinct
+CHOWAN,3,Early Voting,560.22,precinct
+CHOWAN,4,Early Voting,265.58,precinct
+CHOWAN,5,Early Voting,280.61,precinct
+CHOWAN,6,Early Voting,687.5,precinct
+CHOWAN,1,Absentee by Mail,29,precinct
+CHOWAN,2,Absentee by Mail,33,precinct
+CHOWAN,3,Absentee by Mail,7,precinct
+CHOWAN,4,Absentee by Mail,1,precinct
+CHOWAN,5,Absentee by Mail,0,alloc_by_ed
+CHOWAN,6,Absentee by Mail,19,precinct
+CRAVEN,02,Early Voting,3089,precinct
+CRAVEN,03,Early Voting,1468,precinct
+CRAVEN,05,Early Voting,854,precinct
+CRAVEN,07,Early Voting,863,precinct
+CRAVEN,11,Early Voting,992,precinct
+CRAVEN,16,Early Voting,1454,precinct
+CRAVEN,17,Early Voting,770,precinct
+CRAVEN,19,Early Voting,1335,precinct
+CRAVEN,20,Early Voting,1429,precinct
+CRAVEN,21,Early Voting,1510,precinct
+CRAVEN,23,Early Voting,2906,precinct
+CRAVEN,CFB8,Early Voting,663,precinct
+CRAVEN,CLR4,Early Voting,1007,precinct
+CRAVEN,DFB9,Early Voting,248,precinct
+CRAVEN,N1,Early Voting,883,precinct
+CRAVEN,N2,Early Voting,831,precinct
+CRAVEN,N3N5,Early Voting,1253,precinct
+CRAVEN,N4,Early Voting,1608,precinct
+CRAVEN,N6,Early Voting,2007,precinct
+CRAVEN,TE13,Early Voting,491,precinct
+CRAVEN,VE14,Early Voting,1821,precinct
+CRAVEN,02,Absentee by Mail,76.23,precinct
+CRAVEN,03,Absentee by Mail,86.26,precinct
+CRAVEN,05,Absentee by Mail,46.14,precinct
+CRAVEN,07,Absentee by Mail,17.05,precinct
+CRAVEN,11,Absentee by Mail,26.08,precinct
+CRAVEN,16,Absentee by Mail,76.23,precinct
+CRAVEN,17,Absentee by Mail,33.1,precinct
+CRAVEN,19,Absentee by Mail,19.06,precinct
+CRAVEN,20,Absentee by Mail,80.24,precinct
+CRAVEN,21,Absentee by Mail,85.26,precinct
+CRAVEN,23,Absentee by Mail,129.39,precinct
+CRAVEN,CFB8,Absentee by Mail,2.01,precinct
+CRAVEN,CLR4,Absentee by Mail,26.08,precinct
+CRAVEN,DFB9,Absentee by Mail,2.01,precinct
+CRAVEN,N1,Absentee by Mail,47.14,precinct
+CRAVEN,N2,Absentee by Mail,16.05,precinct
+CRAVEN,N3N5,Absentee by Mail,51.15,precinct
+CRAVEN,N4,Absentee by Mail,64.19,precinct
+CRAVEN,N6,Absentee by Mail,87.26,precinct
+CRAVEN,TE13,Absentee by Mail,10.03,precinct
+CRAVEN,VE14,Absentee by Mail,14.04,precinct
+CURRITUCK,CB,Early Voting,27,precinct
+CURRITUCK,CH,Early Voting,1390,precinct
+CURRITUCK,CO,Early Voting,241,precinct
+CURRITUCK,EM,Early Voting,883,precinct
+CURRITUCK,GW,Early Voting,19,precinct
+CURRITUCK,IR,Early Voting,377,precinct
+CURRITUCK,KI,Early Voting,67,precinct
+CURRITUCK,PB,Early Voting,1032,precinct
+CURRITUCK,PP,Early Voting,365,precinct
+CURRITUCK,WH,Early Voting,154,precinct
+CURRITUCK,WM,Early Voting,1032,precinct
+CURRITUCK,CB,Absentee by Mail,4,precinct
+CURRITUCK,CH,Absentee by Mail,33,precinct
+CURRITUCK,CO,Absentee by Mail,9,precinct
+CURRITUCK,EM,Absentee by Mail,36,precinct
+CURRITUCK,GW,Absentee by Mail,1,precinct
+CURRITUCK,IR,Absentee by Mail,6,precinct
+CURRITUCK,KI,Absentee by Mail,3,precinct
+CURRITUCK,PB,Absentee by Mail,25,precinct
+CURRITUCK,PP,Absentee by Mail,34,precinct
+CURRITUCK,WH,Absentee by Mail,45,precinct
+CURRITUCK,WM,Absentee by Mail,47,precinct
+DARE,EV BOE,Early Voting,3515,site
+DARE,EV FANX,Early Voting,1261,site
+DARE,EV KDH TH,Early Voting,7441,site
+DARE,ABSENTEE,Absentee by Mail,462,county
+EDGECOMBE,EV-BOE,Early Voting,5467,site
+EDGECOMBE,EV-PINETOPS,Early Voting,1686,site
+EDGECOMBE,EV-ROCKY MT,Early Voting,5058,site
+EDGECOMBE,ABSENTEE,Absentee by Mail,134,county
+GATES,1,Early Voting,489,precinct
+GATES,2,Early Voting,195,precinct
+GATES,3,Early Voting,612,precinct
+GATES,4N,Early Voting,368,precinct
+GATES,4S,Early Voting,286,precinct
+GATES,5,Early Voting,275,precinct
+GATES,1,Absentee by Mail,31,precinct
+GATES,2,Absentee by Mail,4,precinct
+GATES,3,Absentee by Mail,14,precinct
+GATES,4N,Absentee by Mail,13,precinct
+GATES,4S,Absentee by Mail,3,precinct
+GATES,5,Absentee by Mail,2,precinct
+GRANVILLE,ANTI,Early Voting,491,precinct
+GRANVILLE,CRDL,Early Voting,832,precinct
+GRANVILLE,EAOX,Early Voting,888,precinct
+GRANVILLE,SALM,Early Voting,514,precinct
+GRANVILLE,SOOX,Early Voting,649,precinct
+GRANVILLE,WOEL,Early Voting,0,alloc_by_ed
+GRANVILLE,ANTI,Absentee by Mail,2,precinct
+GRANVILLE,CRDL,Absentee by Mail,12,precinct
+GRANVILLE,EAOX,Absentee by Mail,9,precinct
+GRANVILLE,SALM,Absentee by Mail,10,precinct
+GRANVILLE,SOOX,Absentee by Mail,10,precinct
+GRANVILLE,WOEL,Absentee by Mail,0,alloc_by_ed
+HALIFAX,EV HAL,Early Voting,2687,site
+HALIFAX,EV RING,Early Voting,1554,site
+HALIFAX,EV RRA,Early Voting,5666,site
+HALIFAX,EV SN,Early Voting,1009,site
+HALIFAX,ABSENTEE,Absentee by Mail,189,county
+HERTFORD,A1,Early Voting,643,precinct
+HERTFORD,A2,Early Voting,737,precinct
+HERTFORD,A3,Early Voting,376,precinct
+HERTFORD,BR,Early Voting,132,precinct
+HERTFORD,CM,Early Voting,112,precinct
+HERTFORD,CO,Early Voting,141,precinct
+HERTFORD,HV,Early Voting,212,precinct
+HERTFORD,M1,Early Voting,757,precinct
+HERTFORD,M2,Early Voting,434,precinct
+HERTFORD,ML,Early Voting,105,precinct
+HERTFORD,SJ,Early Voting,194,precinct
+HERTFORD,UN,Early Voting,285,precinct
+HERTFORD,WN,Early Voting,450,precinct
+HERTFORD,A1,Absentee by Mail,0,alloc_by_ed
+HERTFORD,A2,Absentee by Mail,6,precinct
+HERTFORD,A3,Absentee by Mail,5,precinct
+HERTFORD,BR,Absentee by Mail,2,precinct
+HERTFORD,CM,Absentee by Mail,0,alloc_by_ed
+HERTFORD,CO,Absentee by Mail,0,alloc_by_ed
+HERTFORD,HV,Absentee by Mail,3,precinct
+HERTFORD,M1,Absentee by Mail,19,precinct
+HERTFORD,M2,Absentee by Mail,4,precinct
+HERTFORD,ML,Absentee by Mail,5,precinct
+HERTFORD,SJ,Absentee by Mail,5,precinct
+HERTFORD,UN,Absentee by Mail,5,precinct
+HERTFORD,WN,Absentee by Mail,4,precinct
+HYDE,EV BOE,Early Voting,587,site
+HYDE,EV OCK,Early Voting,229,site
+HYDE,ABSENTEE,Absentee by Mail,36,county
+MARTIN,BG,Early Voting,656.05,alloc_by_ed
+MARTIN,CR,Early Voting,415.38,alloc_by_ed
+MARTIN,GRF,Early Voting,664.6,alloc_by_ed
+MARTIN,GSN,Early Voting,518,alloc_by_ed
+MARTIN,HMT,Early Voting,470.35,alloc_by_ed
+MARTIN,JMV,Early Voting,596.19,alloc_by_ed
+MARTIN,RBV,Early Voting,783.11,alloc_by_ed
+MARTIN,WM1,Early Voting,492.34,alloc_by_ed
+MARTIN,WM2,Early Voting,539.99,alloc_by_ed
+MARTIN,BG,Absentee by Mail,12.52,alloc_by_ed
+MARTIN,CR,Absentee by Mail,7.93,alloc_by_ed
+MARTIN,GRF,Absentee by Mail,12.68,alloc_by_ed
+MARTIN,GSN,Absentee by Mail,9.88,alloc_by_ed
+MARTIN,HMT,Absentee by Mail,8.97,alloc_by_ed
+MARTIN,JMV,Absentee by Mail,11.38,alloc_by_ed
+MARTIN,RBV,Absentee by Mail,14.94,alloc_by_ed
+MARTIN,WM1,Absentee by Mail,9.39,alloc_by_ed
+MARTIN,WM2,Absentee by Mail,10.3,alloc_by_ed
+NASH,MT. PLEASANT EV,Early Voting,3236,site
+NASH,NASHVILLE EV,Early Voting,15118,site
+NASH,ROCKY MOUNT EV,Early Voting,9870,site
+NASH,ABSENTEE,Absentee by Mail,509,county
+NORTHAMPTON,EV GASTON,Early Voting,1808,site
+NORTHAMPTON,EV JACKSON,Early Voting,1658,site
+NORTHAMPTON,EV RICH SQUARE,Early Voting,682,site
+NORTHAMPTON,ABSENTEE,Absentee by Mail,67,county
+ONSLOW,SW19,Early Voting,1490,precinct
+ONSLOW,SW19,Absentee by Mail,62,precinct
+PAMLICO,1CR,Early Voting,450,precinct
+PAMLICO,1RB,Early Voting,411,precinct
+PAMLICO,2OT,Early Voting,1113,precinct
+PAMLICO,3CH,Early Voting,769,precinct
+PAMLICO,4BR,Early Voting,153,precinct
+PAMLICO,5AP,Early Voting,1109,precinct
+PAMLICO,1CR,Absentee by Mail,11,precinct
+PAMLICO,1RB,Absentee by Mail,11,precinct
+PAMLICO,2OT,Absentee by Mail,46,precinct
+PAMLICO,3CH,Absentee by Mail,20,precinct
+PAMLICO,4BR,Absentee by Mail,2,precinct
+PAMLICO,5AP,Absentee by Mail,41,precinct
+PASQUOTANK,EAST,Early Voting,1335,precinct
+PASQUOTANK,MH,Early Voting,1595,precinct
+PASQUOTANK,NEW,Early Voting,513,precinct
+PASQUOTANK,NIX,Early Voting,1562,precinct
+PASQUOTANK,NORTH,Early Voting,672,precinct
+PASQUOTANK,PRO,Early Voting,1664,precinct
+PASQUOTANK,SAL,Early Voting,432,precinct
+PASQUOTANK,SOUTH,Early Voting,1018,precinct
+PASQUOTANK,WEST,Early Voting,780,precinct
+PASQUOTANK,EAST,Absentee by Mail,29,precinct
+PASQUOTANK,MH,Absentee by Mail,38,precinct
+PASQUOTANK,NEW,Absentee by Mail,9,precinct
+PASQUOTANK,NIX,Absentee by Mail,30,precinct
+PASQUOTANK,NORTH,Absentee by Mail,22,precinct
+PASQUOTANK,PRO,Absentee by Mail,47,precinct
+PASQUOTANK,SAL,Absentee by Mail,16,precinct
+PASQUOTANK,SOUTH,Absentee by Mail,15,precinct
+PASQUOTANK,WEST,Absentee by Mail,32,precinct
+PERQUIMANS,BELVID,Early Voting,437.39,alloc_by_ed
+PERQUIMANS,BETHEL,Early Voting,721.7,alloc_by_ed
+PERQUIMANS,EAST H,Early Voting,369.96,alloc_by_ed
+PERQUIMANS,NEW HO,Early Voting,1053.39,alloc_by_ed
+PERQUIMANS,NICANO,Early Voting,227.81,alloc_by_ed
+PERQUIMANS,PARKVI,Early Voting,532.16,alloc_by_ed
+PERQUIMANS,WEST H,Early Voting,322.58,alloc_by_ed
+PERQUIMANS,BELVID,Absentee by Mail,10.86,alloc_by_ed
+PERQUIMANS,BETHEL,Absentee by Mail,17.92,alloc_by_ed
+PERQUIMANS,EAST H,Absentee by Mail,9.19,alloc_by_ed
+PERQUIMANS,NEW HO,Absentee by Mail,26.16,alloc_by_ed
+PERQUIMANS,NICANO,Absentee by Mail,5.66,alloc_by_ed
+PERQUIMANS,PARKVI,Absentee by Mail,13.21,alloc_by_ed
+PERQUIMANS,WEST H,Absentee by Mail,8.01,alloc_by_ed
+TYRRELL,EARLY VOTING,Early Voting,787,site
+TYRRELL,ABSENTEE,Absentee by Mail,6,county
+VANCE,CC,Early Voting,1149,precinct
+VANCE,CH,Early Voting,1126,precinct
+VANCE,KITT,Early Voting,1167,precinct
+VANCE,MIDD,Early Voting,1015,precinct
+VANCE,NV,Early Voting,404,precinct
+VANCE,SCRK,Early Voting,1350,precinct
+VANCE,SH,Early Voting,1042,precinct
+VANCE,TWN,Early Voting,1294,precinct
+VANCE,WH,Early Voting,1474,precinct
+VANCE,CC,Absentee by Mail,19.1,precinct
+VANCE,CH,Absentee by Mail,12.06,precinct
+VANCE,KITT,Absentee by Mail,31.16,precinct
+VANCE,MIDD,Absentee by Mail,22.11,precinct
+VANCE,NV,Absentee by Mail,9.05,precinct
+VANCE,SCRK,Absentee by Mail,19.1,precinct
+VANCE,SH,Absentee by Mail,14.07,precinct
+VANCE,TWN,Absentee by Mail,32.16,precinct
+VANCE,WH,Absentee by Mail,39.2,precinct
+WARREN,001,Early Voting,369,precinct
+WARREN,002,Early Voting,372,precinct
+WARREN,003,Early Voting,302,precinct
+WARREN,004,Early Voting,298,precinct
+WARREN,005,Early Voting,488,precinct
+WARREN,006,Early Voting,398,precinct
+WARREN,007,Early Voting,332,precinct
+WARREN,008,Early Voting,404,precinct
+WARREN,009,Early Voting,197,precinct
+WARREN,010,Early Voting,706,precinct
+WARREN,011,Early Voting,95,precinct
+WARREN,012,Early Voting,315,precinct
+WARREN,013,Early Voting,177,precinct
+WARREN,014,Early Voting,527,precinct
+WARREN,001,Absentee by Mail,16,precinct
+WARREN,002,Absentee by Mail,14,precinct
+WARREN,003,Absentee by Mail,5,precinct
+WARREN,004,Absentee by Mail,5,precinct
+WARREN,005,Absentee by Mail,9,precinct
+WARREN,006,Absentee by Mail,6,precinct
+WARREN,007,Absentee by Mail,3,precinct
+WARREN,008,Absentee by Mail,19,precinct
+WARREN,009,Absentee by Mail,4,precinct
+WARREN,010,Absentee by Mail,11,precinct
+WARREN,011,Absentee by Mail,1,precinct
+WARREN,012,Absentee by Mail,21,precinct
+WARREN,013,Absentee by Mail,1,precinct
+WARREN,014,Absentee by Mail,8,precinct
+WASHINGTON,EARLY VOTING,Early Voting,2861,site
+WASHINGTON,ABSENTEE,Absentee by Mail,39,county

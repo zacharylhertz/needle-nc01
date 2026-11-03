@@ -1,0 +1,123 @@
+2026 units 350, real 290, counties 25
+      county     N
+      <char> <int>
+1: GRANVILLE     6
+2:    ONSLOW     1
+      county all_real
+      <char>    <int>
+1: GRANVILLE       15
+2:    ONSLOW       24
+
+Margins on 2026 NC-1 lines
+               contest      T margin
+                <char>  <num>  <num>
+1:        US PRESIDENT 421021 -11.56
+2:         NC GOVERNOR 413403   2.70
+3: NC ATTORNEY GENERAL 413405  -6.10
+(2022 and 2020)
+        contest      T margin
+         <char>  <num>  <num>
+1:    US SENATE 288694 -13.25
+2: US PRESIDENT 417215  -6.91
+3:  NC GOVERNOR 415788  -1.66
+
+2024 President votes by method on lines, whole counties flag
+             method      T share
+             <char>  <num> <num>
+1:     Election Day  98881  23.5
+2:     Early Voting 306150  72.7
+3: Absentee by Mail  14387   3.4
+4:      Provisional   1603   0.4
+Whole counties: early share 72.5% of votes; share of early in pseudo-precincts 36.7%
+Split-county pseudo-precinct votes in 2024 President rows: 0 
+Provisional 2024 votes on lines: 1603 
+d22 US SENATE 
+             method      T share
+             <char>  <num> <num>
+1:     Election Day 127719  44.2
+2:     Early Voting 151584  52.5
+3: Absentee by Mail   8761   3.0
+4:      Provisional    630   0.2
+d20 US PRESIDENT 
+             method      T share
+             <char>  <num> <num>
+1:     Election Day  82120  19.7
+2:     Early Voting 284365  68.2
+3: Absentee by Mail  49472  11.9
+4:      Provisional   1258   0.3
+Real 2026 precincts matched to 2024 by exact name: 285 of 290
+Key: <county, unit>
+    county   unit
+    <char> <char>
+1: HALIFAX    ENF
+2: HALIFAX  RR1-4
+3:   VANCE     CH
+4:   VANCE     SH
+5:   VANCE    TWN
+                                                    target     n       w_a         se             p w_a_within  se_within      p_within  rmse_w0
+                                                    <char> <int>     <num>      <num>         <num>      <num>      <num>         <num>    <num>
+1: Davis 2024 on old NC-1 overlap ~ w Harris + (1-w) Stein   380 0.7706279 0.02033998 8.948088e-131  0.7750873 0.02190561 3.660339e-122 5.348780
+2:                   Beasley 2022 ~ w Biden + (1-w) Cooper   454 0.5826426 0.13733250  2.682100e-05  0.2102580 0.12718988  9.900271e-02 9.967363
+    rmse_w5  rmse_w1
+      <num>    <num>
+1: 2.959100 2.823059
+2: 9.778557 9.873999
+Davis 2024 on the overlap of old NC-1 with new lines: 247318 votes, margin 4.07
+Harris on the same units 0.22; House votes per President vote 0.9802
+
+County check: Harris minus Trump baseline by 2024 method totals, against raw 2024 (split counties on NC-1 precincts)
+         county votes    raw baseline  diff
+         <char> <num>  <num>    <num> <num>
+ 1: NORTHAMPTON  9215  14.48    14.68  0.20
+ 2:     TYRRELL  1757 -21.46   -21.27  0.19
+ 3:      BERTIE  9186  15.67    15.48 -0.18
+ 4:    HERTFORD  9843  26.72    26.86  0.14
+ 5:  PASQUOTANK 20343  -4.86    -4.99 -0.13
+ 6:      CHOWAN  7552 -22.40   -22.29  0.11
+ 7:    BEAUFORT 26572 -31.04   -31.13 -0.10
+ 8:        HYDE  2421 -22.06   -22.15 -0.09
+ 9:       GATES  5868 -21.64   -21.55  0.09
+10:  WASHINGTON  5944   6.22     6.14 -0.09
+11:   GRANVILLE  5882  27.22    27.30  0.08
+12:     HALIFAX 23965  17.68    17.61 -0.07
+13:        DARE 25196 -18.73   -18.66  0.06
+14:   CURRITUCK 18053 -47.81   -47.87 -0.06
+15:   EDGECOMBE 24448  22.68    22.74  0.06
+16:  PERQUIMANS  7666 -39.25   -39.30 -0.05
+17:       VANCE 20092  13.33    13.29 -0.04
+18:     PAMLICO  7976 -32.01   -31.98  0.03
+19:      CRAVEN 56173 -20.41   -20.43 -0.02
+20:      MARTIN 12040 -10.31   -10.32 -0.01
+21:        NASH 52471  -1.76    -1.77 -0.01
+22:    CARTERET 45817 -42.99   -42.99 -0.01
+23:      WARREN 10013  18.94    18.93 -0.01
+24:      CAMDEN  6304 -50.67   -50.66  0.01
+25:      ONSLOW  4554 -44.42   -44.42  0.00
+         county votes    raw baseline  diff
+Votes in a county x method with no 2026 cell: 0
+District raw -11.64; baseline b_h by 2024 method totals -11.66; by own 2024 votes -12.11; by expected votes (E0) -11.85; blend b by E0 -8.21
+Counties off by more than 1 point: none
+
+County check: 2024 House baseline by 2024 method totals, against raw DISTRICT 01 rows
+Key: <county>
+         county votes    raw baseline  diff
+         <char> <num>  <num>    <num> <num>
+ 1:      BERTIE  9081  19.30    19.15 -0.16
+ 2:      CAMDEN  6178 -48.75   -48.75  0.00
+ 3:      CHOWAN  7489 -20.75   -20.67  0.08
+ 4:   CURRITUCK 17733 -46.59   -46.61 -0.03
+ 5:   EDGECOMBE 24236  26.31    26.37  0.06
+ 6:       GATES  5755 -18.14   -18.04  0.10
+ 7:   GRANVILLE  5698  31.27    31.44  0.16
+ 8:     HALIFAX 23647  22.56    22.49 -0.07
+ 9:    HERTFORD  9646  30.48    30.60  0.12
+10:      MARTIN 11864  -2.19    -2.21 -0.01
+11:        NASH 51842   2.21     2.20 -0.01
+12: NORTHAMPTON  9078  20.62    20.79  0.17
+13:  PASQUOTANK 20101  -1.94    -2.07 -0.14
+14:  PERQUIMANS  7604 -36.60   -36.67 -0.07
+15:     TYRRELL  1719 -15.42   -15.22  0.19
+16:       VANCE 19770  17.13    17.09 -0.05
+17:      WARREN  9984  24.03    23.95 -0.08
+18:  WASHINGTON  5893  10.76    10.69 -0.07
+Counties with a House baseline: 18; without: 7; off by more than 1 point: none
