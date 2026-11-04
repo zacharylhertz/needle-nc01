@@ -1,11 +1,11 @@
 {
   "race": "NC-1",
   "status": "counting",
-  "updated_at": "2026-11-03T22:17:21-05:00",
+  "updated_at": "2026-11-03T22:19:53-05:00",
   "feed": {
-    "source": "json",
-    "last_modified": "2026-11-03T22:16:57-05:00",
-    "last_change_at": "2026-11-03T22:17:21-05:00"
+    "source": "zip",
+    "last_modified": "2026-11-03T22:17:04-05:00",
+    "last_change_at": "2026-11-03T22:19:53-05:00"
   },
   "candidates": [
     {
@@ -1802,6 +1802,18 @@
       "margin_hi95": 4.03,
       "reported_margin": 1.99,
       "pct_counted_est": 92.77
+    },
+    {
+      "t": "2026-11-03T22:19:53-05:00",
+      "p_davis": 1,
+      "margin_mid": 3.32,
+      "counted_votes": 291736,
+      "margin_lo50": 3.12,
+      "margin_hi50": 3.52,
+      "margin_lo95": 2.61,
+      "margin_hi95": 4.03,
+      "reported_margin": 1.99,
+      "pct_counted_est": 92.77
     }
   ],
   "early_electorate": {
@@ -2008,7 +2020,7 @@
   ],
   "davis_v_cooper": {
     "available": true,
-    "source": "json",
+    "source": "zip",
     "district": {
       "cells": 578,
       "votes_house": 291736,
@@ -2248,18 +2260,18 @@
   "redistricting": {
     "available": true,
     "source_old": "zip",
-    "source_new": "json",
+    "source_new": "zip",
     "low_match_flag": true,
     "match_rate": 0.841,
     "coverage": 0.9964,
     "old_lines": {
-      "counted_votes": 235447,
+      "counted_votes": 239281,
       "votes_2024": 381301,
-      "counted_share": 0.6175,
-      "senate_margin": 12.07,
-      "pres2024_margin_counted": -4.95,
+      "counted_share": 0.6275,
+      "senate_margin": 11.97,
+      "pres2024_margin_counted": -4.8,
       "pres2024_margin": -3.09,
-      "senate_minus_pres2024": 17.02,
+      "senate_minus_pres2024": 16.76,
       "counties_total": 22,
       "counties_missing": []
     },
@@ -2277,9 +2289,9 @@
       ]
     },
     "gap": {
-      "senate_old_minus_new": 9.02,
+      "senate_old_minus_new": 8.92,
       "pres2024_old_minus_new": 8.55,
-      "pres2024_counted_old_minus_new": 8.71
+      "pres2024_counted_old_minus_new": 8.86
     },
     "old_lines_unavailable_reason": null
   },
