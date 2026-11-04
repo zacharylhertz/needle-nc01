@@ -1,10 +1,10 @@
 {
   "race": "NC-1",
   "status": "counting",
-  "updated_at": "2026-11-03T23:52:18-05:00",
+  "updated_at": "2026-11-03T23:54:49-05:00",
   "feed": {
     "source": "zip",
-    "last_modified": "2026-11-03T23:43:28-05:00",
+    "last_modified": "2026-11-03T23:54:08-05:00",
     "last_change_at": "2026-11-03T23:44:45-05:00"
   },
   "candidates": [
@@ -82,7 +82,7 @@
         "id": "ccu_hold",
         "label": "Test passed on consecutive updates at least 10 minutes apart",
         "met": true,
-        "value": 60.6,
+        "value": 63.1,
         "threshold": 10
       },
       {
@@ -2246,6 +2246,18 @@
       "margin_hi95": 2.64,
       "reported_margin": 2.49,
       "pct_counted_est": 99.46
+    },
+    {
+      "t": "2026-11-03T23:54:49-05:00",
+      "p_davis": 1,
+      "margin_mid": 2.51,
+      "counted_votes": 304362,
+      "margin_lo50": 2.47,
+      "margin_hi50": 2.54,
+      "margin_lo95": 2.37,
+      "margin_hi95": 2.64,
+      "reported_margin": 2.49,
+      "pct_counted_est": 99.46
     }
   ],
   "early_electorate": {
@@ -2697,13 +2709,13 @@
     "match_rate": 0.841,
     "coverage": 0.9964,
     "old_lines": {
-      "counted_votes": 271293,
+      "counted_votes": 272565,
       "votes_2024": 381301,
-      "counted_share": 0.7115,
-      "senate_margin": 13.41,
-      "pres2024_margin_counted": -3.45,
+      "counted_share": 0.7148,
+      "senate_margin": 13.19,
+      "pres2024_margin_counted": -3.6,
       "pres2024_margin": -3.09,
-      "senate_minus_pres2024": 16.87,
+      "senate_minus_pres2024": 16.79,
       "counties_total": 22,
       "counties_missing": []
     },
@@ -2719,9 +2731,9 @@
       "counties_missing": []
     },
     "gap": {
-      "senate_old_minus_new": 9.91,
+      "senate_old_minus_new": 9.69,
       "pres2024_old_minus_new": 8.55,
-      "pres2024_counted_old_minus_new": 9.32
+      "pres2024_counted_old_minus_new": 9.17
     },
     "old_lines_unavailable_reason": null
   },
