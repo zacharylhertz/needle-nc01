@@ -1,11 +1,11 @@
 {
   "race": "NC-1",
   "status": "counting",
-  "updated_at": "2026-11-04T00:25:03-05:00",
+  "updated_at": "2026-11-04T00:27:35-05:00",
   "feed": {
-    "source": "json",
-    "last_modified": "2026-11-04T00:24:42-05:00",
-    "last_change_at": "2026-11-04T00:25:03-05:00"
+    "source": "zip",
+    "last_modified": "2026-11-04T00:24:48-05:00",
+    "last_change_at": "2026-11-04T00:27:35-05:00"
   },
   "candidates": [
     {
@@ -82,7 +82,7 @@
         "id": "ccu_hold",
         "label": "Test passed on consecutive updates at least 10 minutes apart",
         "met": true,
-        "value": 93.3,
+        "value": 95.9,
         "threshold": 10
       },
       {
@@ -2402,6 +2402,18 @@
       "margin_hi95": 2.65,
       "reported_margin": 2.49,
       "pct_counted_est": 99.47
+    },
+    {
+      "t": "2026-11-04T00:27:35-05:00",
+      "p_davis": 1,
+      "margin_mid": 2.51,
+      "counted_votes": 304437,
+      "margin_lo50": 2.47,
+      "margin_hi50": 2.54,
+      "margin_lo95": 2.37,
+      "margin_hi95": 2.65,
+      "reported_margin": 2.49,
+      "pct_counted_est": 99.47
     }
   ],
   "early_electorate": {
@@ -2608,7 +2620,7 @@
   ],
   "davis_v_cooper": {
     "available": true,
-    "source": "json",
+    "source": "zip",
     "district": {
       "cells": 629,
       "votes_house": 304437,
@@ -2848,7 +2860,7 @@
   "redistricting": {
     "available": true,
     "source_old": "zip",
-    "source_new": "json",
+    "source_new": "zip",
     "low_match_flag": true,
     "match_rate": 0.841,
     "coverage": 0.9964,
