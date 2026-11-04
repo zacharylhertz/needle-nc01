@@ -1,47 +1,47 @@
 {
   "race": "NC-1",
   "status": "counting",
-  "updated_at": "2026-11-03T23:22:00-05:00",
+  "updated_at": "2026-11-03T23:24:32-05:00",
   "feed": {
     "source": "zip",
-    "last_modified": "2026-11-03T23:15:32-05:00",
-    "last_change_at": "2026-11-03T23:16:58-05:00"
+    "last_modified": "2026-11-03T23:23:07-05:00",
+    "last_change_at": "2026-11-03T23:24:32-05:00"
   },
   "candidates": [
     {
       "name": "Don Davis",
       "party": "DEM",
-      "votes": 148327,
-      "pct": 49.46
+      "votes": 148510,
+      "pct": 49.48
     },
     {
       "name": "Laurie Buckhout",
       "party": "REP",
-      "votes": 141951,
-      "pct": 47.33
+      "votes": 142019,
+      "pct": 47.31
     },
     {
       "name": "Tom Bailey",
       "party": "LIB",
-      "votes": 9625,
+      "votes": 9634,
       "pct": 3.21
     }
   ],
-  "counted_votes": 299903,
+  "counted_votes": 300163,
   "expected_total": {
-    "mid": 311316,
-    "lo90": 310680,
-    "hi90": 312169
+    "mid": 311327,
+    "lo90": 310703,
+    "hi90": 312189
   },
-  "pct_counted_est": 96.33,
+  "pct_counted_est": 96.41,
   "estimate": {
-    "margin_mid": 3.01,
-    "margin_lo90": 2.6,
-    "margin_hi90": 3.42,
-    "margin_lo50": 2.86,
-    "margin_hi50": 3.16,
-    "margin_lo95": 2.49,
-    "margin_hi95": 3.54,
+    "margin_mid": 2.98,
+    "margin_lo90": 2.57,
+    "margin_hi90": 3.37,
+    "margin_lo50": 2.83,
+    "margin_hi50": 3.12,
+    "margin_lo95": 2.47,
+    "margin_hi95": 3.49,
     "p_davis": 1,
     "p_buckhout": 0
   },
@@ -54,14 +54,14 @@
         "id": "cannot_catch_up",
         "label": "Cannot catch up: the favourable-case test passed with a 10 point buffer, lead above 0.5 points, held 10 minutes",
         "met": true,
-        "value": 7410,
+        "value": 7516,
         "threshold": 0
       },
       {
         "id": "ccu_favourable_case",
         "label": "Leader still ahead with every outstanding vote at the trailing candidate's favourable margin (votes)",
         "met": true,
-        "value": 7410,
+        "value": 7516,
         "threshold": 0
       },
       {
@@ -75,14 +75,14 @@
         "id": "ccu_lead",
         "label": "Lead in the count above 0.5 points",
         "met": true,
-        "value": 2.13,
+        "value": 2.16,
         "threshold": 0.5
       },
       {
         "id": "ccu_hold",
         "label": "Test passed on consecutive updates at least 10 minutes apart",
         "met": true,
-        "value": 30.3,
+        "value": 32.8,
         "threshold": 10
       },
       {
@@ -106,21 +106,21 @@
       "method": "Early Voting",
       "votes": 187272,
       "margin": 11.46,
-      "expected_votes": 196748,
+      "expected_votes": 196746,
       "baseline_margin": -0.73
     },
     {
       "method": "Absentee by Mail",
-      "votes": 4885,
-      "margin": 38.55,
-      "expected_votes": 5237,
-      "baseline_margin": 29.07
+      "votes": 5145,
+      "margin": 38.83,
+      "expected_votes": 5250,
+      "baseline_margin": 29.24
     },
     {
       "method": "Provisional",
       "votes": 36,
       "margin": 0,
-      "expected_votes": 1607,
+      "expected_votes": 1608,
       "baseline_margin": 16.61
     }
   ],
@@ -177,7 +177,7 @@
       "est_margin_mid": 28.24,
       "est_margin_lo50": 28.18,
       "est_margin_hi50": 28.32,
-      "est_margin_lo95": 28.02,
+      "est_margin_lo95": 28.01,
       "est_margin_hi95": 28.52,
       "benchmark_margin": 25.81,
       "vs_benchmark": 2.32,
@@ -270,7 +270,7 @@
       "swing_house": 7.61,
       "expected_total": 5960,
       "pct_counted_est": 99.65,
-      "est_margin_mid": -11.67,
+      "est_margin_mid": -11.68,
       "est_margin_lo50": -11.72,
       "est_margin_hi50": -11.63,
       "est_margin_lo95": -11.78,
@@ -369,7 +369,7 @@
       "est_margin_mid": -3.67,
       "est_margin_lo50": -3.69,
       "est_margin_hi50": -3.65,
-      "est_margin_lo95": -3.75,
+      "est_margin_lo95": -3.74,
       "est_margin_hi95": -3.61,
       "benchmark_margin": -10.33,
       "vs_benchmark": 6.72,
@@ -401,8 +401,8 @@
       "est_margin_mid": 39.29,
       "est_margin_lo50": 39.25,
       "est_margin_hi50": 39.32,
-      "est_margin_lo95": 39.15,
-      "est_margin_hi95": 39.44,
+      "est_margin_lo95": 39.14,
+      "est_margin_hi95": 39.43,
       "benchmark_margin": 36.09,
       "vs_benchmark": 3.17,
       "vs_benchmark_votes": 569,
@@ -429,7 +429,7 @@
       "house2024_margin": -21.26,
       "swing_house": 17.29,
       "expected_total": 4192,
-      "pct_counted_est": 99.29,
+      "pct_counted_est": 99.28,
       "est_margin_mid": -4.03,
       "est_margin_lo50": -4.08,
       "est_margin_hi50": -3.97,
@@ -624,8 +624,8 @@
       "pct_counted_est": 99.44,
       "est_margin_mid": 14.21,
       "est_margin_lo50": 14.17,
-      "est_margin_hi50": 14.25,
-      "est_margin_lo95": 14.05,
+      "est_margin_hi50": 14.26,
+      "est_margin_lo95": 14.06,
       "est_margin_hi95": 14.38,
       "benchmark_margin": 7.81,
       "vs_benchmark": 6.35,
@@ -687,10 +687,10 @@
       "expected_total": 2212,
       "pct_counted_est": 94.65,
       "est_margin_mid": -26.9,
-      "est_margin_lo50": -27.16,
-      "est_margin_hi50": -26.62,
-      "est_margin_lo95": -27.88,
-      "est_margin_hi95": -25.92,
+      "est_margin_lo50": -27.18,
+      "est_margin_hi50": -26.63,
+      "est_margin_lo95": -27.89,
+      "est_margin_hi95": -25.91,
       "benchmark_margin": -31.32,
       "vs_benchmark": 2.62,
       "vs_benchmark_votes": 55,
@@ -737,27 +737,27 @@
       "county": "PASQUOTANK",
       "precincts_reported": 9,
       "precincts_total": 9,
-      "votes": 5102,
-      "margin": -7,
-      "baseline_margin": -18.96,
+      "votes": 5362,
+      "margin": -4.51,
+      "baseline_margin": -16.47,
       "swing": 11.96,
-      "votes_d": 2240,
-      "votes_r": 2597,
-      "votes_l": 265,
-      "pres2024_margin": -20.59,
-      "swing_pres": 13.59,
-      "house2024_margin": -15.64,
-      "swing_house": 8.65,
-      "expected_total": 14916,
-      "pct_counted_est": 34.21,
-      "est_margin_mid": 17.17,
-      "est_margin_lo50": 14.17,
-      "est_margin_hi50": 20.13,
-      "est_margin_lo95": 6.6,
-      "est_margin_hi95": 27.73,
-      "benchmark_margin": -15.35,
+      "votes_d": 2423,
+      "votes_r": 2665,
+      "votes_l": 274,
+      "pres2024_margin": -18.68,
+      "swing_pres": 14.16,
+      "house2024_margin": -13.98,
+      "swing_house": 9.47,
+      "expected_total": 14927,
+      "pct_counted_est": 35.92,
+      "est_margin_mid": 16.39,
+      "est_margin_lo50": 13.43,
+      "est_margin_hi50": 19.28,
+      "est_margin_lo95": 6.25,
+      "est_margin_hi95": 26.78,
+      "benchmark_margin": -12.86,
       "vs_benchmark": 8.35,
-      "vs_benchmark_votes": 426,
+      "vs_benchmark_votes": 448,
       "groups": {
         "pres_lean": "More competitive",
         "area": "Counties from the old NC-1",
@@ -786,7 +786,7 @@
       "est_margin_lo50": -25.98,
       "est_margin_hi50": -25.92,
       "est_margin_lo95": -26.07,
-      "est_margin_hi95": -25.84,
+      "est_margin_hi95": -25.85,
       "benchmark_margin": -31.98,
       "vs_benchmark": 6.06,
       "vs_benchmark_votes": 338,
@@ -818,7 +818,7 @@
       "est_margin_lo50": -2.72,
       "est_margin_hi50": -2.64,
       "est_margin_lo95": -2.84,
-      "est_margin_hi95": -2.53,
+      "est_margin_hi95": -2.54,
       "benchmark_margin": -10.07,
       "vs_benchmark": 7.42,
       "vs_benchmark_votes": 101,
@@ -845,11 +845,11 @@
       "house2024_margin": 17.43,
       "swing_house": 9.36,
       "expected_total": 14643,
-      "pct_counted_est": 99.65,
+      "pct_counted_est": 99.64,
       "est_margin_mid": 26.83,
       "est_margin_lo50": 26.8,
       "est_margin_hi50": 26.86,
-      "est_margin_lo95": 26.74,
+      "est_margin_lo95": 26.73,
       "est_margin_hi95": 26.95,
       "benchmark_margin": 27.15,
       "vs_benchmark": -0.37,
@@ -912,7 +912,7 @@
       "pct_counted_est": 98.59,
       "est_margin_mid": 21.78,
       "est_margin_lo50": 21.71,
-      "est_margin_hi50": 21.85,
+      "est_margin_hi50": 21.84,
       "est_margin_lo95": 21.55,
       "est_margin_hi95": 22.02,
       "benchmark_margin": 17.4,
@@ -2102,6 +2102,18 @@
       "margin_hi95": 3.54,
       "reported_margin": 2.13,
       "pct_counted_est": 96.33
+    },
+    {
+      "t": "2026-11-03T23:24:32-05:00",
+      "p_davis": 1,
+      "margin_mid": 2.98,
+      "counted_votes": 300163,
+      "margin_lo50": 2.83,
+      "margin_hi50": 3.12,
+      "margin_lo95": 2.47,
+      "margin_hi95": 3.49,
+      "reported_margin": 2.16,
+      "pct_counted_est": 96.41
     }
   ],
   "early_electorate": {
@@ -2201,9 +2213,9 @@
     ]
   },
   "sources": {
-    "prior": 0.0064,
-    "model": 0.0303,
-    "actual": 0.9633
+    "prior": 0.0057,
+    "model": 0.0301,
+    "actual": 0.9642
   },
   "groups": [
     {
@@ -2211,10 +2223,10 @@
       "group": "Counties from the old NC-1",
       "counties_reporting": 18,
       "counties_total": 18,
-      "votes": 174195,
-      "leader_margin": 14.36,
-      "benchmark_margin": 10.04,
-      "vs_benchmark": 4.32,
+      "votes": 174455,
+      "leader_margin": 14.4,
+      "benchmark_margin": 10.08,
+      "vs_benchmark": 4.33,
       "status": "Davis"
     },
     {
@@ -2244,10 +2256,10 @@
       "group": "More competitive",
       "counties_reporting": 6,
       "counties_total": 6,
-      "votes": 81057,
-      "leader_margin": 16.08,
-      "benchmark_margin": 11.01,
-      "vs_benchmark": 5.08,
+      "votes": 81317,
+      "leader_margin": 16.17,
+      "benchmark_margin": 11.08,
+      "vs_benchmark": 5.09,
       "status": "Davis"
     },
     {
@@ -2266,10 +2278,10 @@
       "group": "More Black voters",
       "counties_reporting": 13,
       "counties_total": 13,
-      "votes": 144149,
-      "leader_margin": 22.85,
-      "benchmark_margin": 18.72,
-      "vs_benchmark": 4.12,
+      "votes": 144409,
+      "leader_margin": 22.88,
+      "benchmark_margin": 18.75,
+      "vs_benchmark": 4.13,
       "status": "Davis"
     },
     {
@@ -2299,10 +2311,10 @@
       "group": "More younger voters",
       "counties_reporting": 12,
       "counties_total": 12,
-      "votes": 135077,
-      "leader_margin": 13.43,
-      "benchmark_margin": 8.46,
-      "vs_benchmark": 4.97,
+      "votes": 135337,
+      "leader_margin": 13.49,
+      "benchmark_margin": 8.51,
+      "vs_benchmark": 4.98,
       "status": "Davis"
     }
   ],
@@ -2310,11 +2322,11 @@
     "available": true,
     "source": "zip",
     "district": {
-      "cells": 610,
-      "votes_house": 299903,
-      "votes_senate": 301881,
-      "davis_margin": 2.13,
-      "cooper_margin": 3.15,
+      "cells": 619,
+      "votes_house": 300163,
+      "votes_senate": 302142,
+      "davis_margin": 2.16,
+      "cooper_margin": 3.19,
       "davis_minus_cooper": -1.03
     },
     "by_county": [
@@ -2491,12 +2503,12 @@
       },
       {
         "county": "PASQUOTANK",
-        "cells": 9,
-        "votes_house": 5102,
-        "votes_senate": 5109,
-        "davis_margin": -7,
-        "cooper_margin": -7.46,
-        "davis_minus_cooper": 0.46
+        "cells": 18,
+        "votes_house": 5362,
+        "votes_senate": 5370,
+        "davis_margin": -4.51,
+        "cooper_margin": -4.93,
+        "davis_minus_cooper": 0.42
       },
       {
         "county": "PERQUIMANS",
@@ -2553,29 +2565,29 @@
     "match_rate": 0.841,
     "coverage": 0.9964,
     "old_lines": {
-      "counted_votes": 266812,
+      "counted_votes": 267073,
       "votes_2024": 381301,
-      "counted_share": 0.6997,
-      "senate_margin": 13.18,
-      "pres2024_margin_counted": -3.93,
+      "counted_share": 0.7004,
+      "senate_margin": 13.21,
+      "pres2024_margin_counted": -3.91,
       "pres2024_margin": -3.09,
-      "senate_minus_pres2024": 17.11,
+      "senate_minus_pres2024": 17.12,
       "counties_total": 22,
       "counties_missing": []
     },
     "new_lines": {
-      "counted_votes": 301881,
+      "counted_votes": 302142,
       "votes_2024": 419351,
-      "counted_share": 0.7199,
-      "senate_margin": 3.15,
-      "pres2024_margin_counted": -13.28,
+      "counted_share": 0.7205,
+      "senate_margin": 3.19,
+      "pres2024_margin_counted": -13.26,
       "pres2024_margin": -11.64,
       "senate_minus_pres2024": 16.44,
       "counties_total": 25,
       "counties_missing": []
     },
     "gap": {
-      "senate_old_minus_new": 10.03,
+      "senate_old_minus_new": 10.02,
       "pres2024_old_minus_new": 8.55,
       "pres2024_counted_old_minus_new": 9.35
     },
@@ -2585,17 +2597,17 @@
     "available": true,
     "leader": "Davis",
     "trailer": "Buckhout",
-    "lead_votes": 6376,
-    "lead_pts": 2.13,
-    "remaining_votes_mid": 11413,
-    "remaining_votes_lo90": 10777,
-    "remaining_votes_hi90": 12266,
-    "needed_margin": 55.87,
-    "needed_margin_lo90": 51.98,
-    "needed_margin_hi90": 59.16,
+    "lead_votes": 6491,
+    "lead_pts": 2.16,
+    "remaining_votes_mid": 11164,
+    "remaining_votes_lo90": 10540,
+    "remaining_votes_hi90": 12026,
+    "needed_margin": 58.14,
+    "needed_margin_lo90": 53.97,
+    "needed_margin_hi90": 61.59,
     "needed_possible": true,
-    "expected_margin_mid": -26.21,
-    "expected_margin_lo90": -37.49,
-    "expected_margin_hi90": -15.05
+    "expected_margin_mid": -24.75,
+    "expected_margin_lo90": -35.92,
+    "expected_margin_hi90": -13.57
   }
 }
