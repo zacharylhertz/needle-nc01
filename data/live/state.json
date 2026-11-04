@@ -1,7 +1,7 @@
 {
   "race": "NC-1",
   "status": "counting",
-  "updated_at": "2026-11-03T23:04:21-05:00",
+  "updated_at": "2026-11-03T23:06:52-05:00",
   "feed": {
     "source": "zip",
     "last_modified": "2026-11-03T23:01:55-05:00",
@@ -46,8 +46,8 @@
     "p_buckhout": 0
   },
   "call": {
-    "status": "none",
-    "called_at": null,
+    "status": "Davis",
+    "called_at": "2026-11-03T23:06:52-05:00",
     "withdrawn_at": null,
     "conditions": [
       {
@@ -82,14 +82,14 @@
         "id": "ccu_hold",
         "label": "Test passed on consecutive updates at least 10 minutes apart",
         "met": true,
-        "value": 12.6,
+        "value": 15.1,
         "threshold": 10
       },
       {
         "id": "signoff",
         "label": "Signed off by hand in data/live/call_signoff.json",
-        "met": false,
-        "value": "none",
+        "met": true,
+        "value": "Davis",
         "threshold": "Davis or Buckhout"
       }
     ]
@@ -2009,6 +2009,18 @@
     },
     {
       "t": "2026-11-03T23:04:21-05:00",
+      "p_davis": 1,
+      "margin_mid": 3.01,
+      "counted_votes": 299690,
+      "margin_lo50": 2.86,
+      "margin_hi50": 3.16,
+      "margin_lo95": 2.47,
+      "margin_hi95": 3.54,
+      "reported_margin": 2.11,
+      "pct_counted_est": 96.27
+    },
+    {
+      "t": "2026-11-03T23:06:52-05:00",
       "p_davis": 1,
       "margin_mid": 3.01,
       "counted_votes": 299690,
