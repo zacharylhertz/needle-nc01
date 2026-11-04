@@ -1,10 +1,10 @@
 {
   "race": "NC-1",
   "status": "counting",
-  "updated_at": "2026-11-03T21:38:59-05:00",
+  "updated_at": "2026-11-03T21:41:32-05:00",
   "feed": {
     "source": "zip",
-    "last_modified": "2026-11-03T21:38:21-05:00",
+    "last_modified": "2026-11-03T21:40:16-05:00",
     "last_change_at": "2026-11-03T21:38:59-05:00"
   },
   "candidates": [
@@ -1613,6 +1613,18 @@
     },
     {
       "t": "2026-11-03T21:38:59-05:00",
+      "p_davis": 0.9974,
+      "margin_mid": 3.56,
+      "counted_votes": 244585,
+      "margin_lo50": 3,
+      "margin_hi50": 4.12,
+      "margin_lo95": 1.58,
+      "margin_hi95": 5.49,
+      "reported_margin": 2.75,
+      "pct_counted_est": 77.17
+    },
+    {
+      "t": "2026-11-03T21:41:32-05:00",
       "p_davis": 0.9974,
       "margin_mid": 3.56,
       "counted_votes": 244585,
