@@ -1,7 +1,7 @@
 {
   "race": "NC-1",
   "status": "counting",
-  "updated_at": "2026-11-03T22:19:53-05:00",
+  "updated_at": "2026-11-03T22:22:24-05:00",
   "feed": {
     "source": "zip",
     "last_modified": "2026-11-03T22:17:04-05:00",
@@ -1805,6 +1805,18 @@
     },
     {
       "t": "2026-11-03T22:19:53-05:00",
+      "p_davis": 1,
+      "margin_mid": 3.32,
+      "counted_votes": 291736,
+      "margin_lo50": 3.12,
+      "margin_hi50": 3.52,
+      "margin_lo95": 2.61,
+      "margin_hi95": 4.03,
+      "reported_margin": 1.99,
+      "pct_counted_est": 92.77
+    },
+    {
+      "t": "2026-11-03T22:22:24-05:00",
       "p_davis": 1,
       "margin_mid": 3.32,
       "counted_votes": 291736,
