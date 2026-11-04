@@ -1,7 +1,7 @@
 {
   "race": "NC-1",
   "status": "counting",
-  "updated_at": "2026-11-03T23:19:29-05:00",
+  "updated_at": "2026-11-03T23:22:00-05:00",
   "feed": {
     "source": "zip",
     "last_modified": "2026-11-03T23:15:32-05:00",
@@ -82,7 +82,7 @@
         "id": "ccu_hold",
         "label": "Test passed on consecutive updates at least 10 minutes apart",
         "met": true,
-        "value": 27.8,
+        "value": 30.3,
         "threshold": 10
       },
       {
@@ -2081,6 +2081,18 @@
     },
     {
       "t": "2026-11-03T23:19:29-05:00",
+      "p_davis": 1,
+      "margin_mid": 3.01,
+      "counted_votes": 299903,
+      "margin_lo50": 2.86,
+      "margin_hi50": 3.16,
+      "margin_lo95": 2.49,
+      "margin_hi95": 3.54,
+      "reported_margin": 2.13,
+      "pct_counted_est": 96.33
+    },
+    {
+      "t": "2026-11-03T23:22:00-05:00",
       "p_davis": 1,
       "margin_mid": 3.01,
       "counted_votes": 299903,
