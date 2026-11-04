@@ -1,11 +1,11 @@
 {
   "race": "NC-1",
   "status": "counting",
-  "updated_at": "2026-11-03T21:18:26-05:00",
+  "updated_at": "2026-11-03T21:21:01-05:00",
   "feed": {
-    "source": "json",
-    "last_modified": "2026-11-03T21:17:59-05:00",
-    "last_change_at": "2026-11-03T21:18:26-05:00"
+    "source": "zip",
+    "last_modified": "2026-11-03T21:18:05-05:00",
+    "last_change_at": "2026-11-03T21:21:01-05:00"
   },
   "candidates": [
     {
@@ -1526,6 +1526,18 @@
       "margin_hi95": 7,
       "reported_margin": 3.46,
       "pct_counted_est": 65.87
+    },
+    {
+      "t": "2026-11-03T21:21:01-05:00",
+      "p_davis": 0.991,
+      "margin_mid": 4.03,
+      "counted_votes": 206965,
+      "margin_lo50": 3.19,
+      "margin_hi50": 4.89,
+      "margin_lo95": 1.03,
+      "margin_hi95": 7,
+      "reported_margin": 3.46,
+      "pct_counted_est": 65.87
     }
   ],
   "early_electorate": {
@@ -1732,7 +1744,7 @@
   ],
   "davis_v_cooper": {
     "available": true,
-    "source": "json",
+    "source": "zip",
     "district": {
       "cells": 356,
       "votes_house": 206965,
@@ -1972,27 +1984,25 @@
   "redistricting": {
     "available": true,
     "source_old": "zip",
-    "source_new": "json",
+    "source_new": "zip",
     "low_match_flag": true,
     "match_rate": 0.841,
     "coverage": 0.9964,
     "old_lines": {
-      "counted_votes": 191005,
+      "counted_votes": 200059,
       "votes_2024": 381301,
-      "counted_share": 0.5009,
-      "senate_margin": 12.6,
-      "pres2024_margin_counted": -5.52,
+      "counted_share": 0.5247,
+      "senate_margin": 13.39,
+      "pres2024_margin_counted": -4.59,
       "pres2024_margin": -3.09,
-      "senate_minus_pres2024": 18.12,
+      "senate_minus_pres2024": 17.97,
       "counties_total": 22,
       "counties_missing": [
         "BERTIE",
         "HALIFAX",
         "HERTFORD",
         "NORTHAMPTON",
-        "PASQUOTANK",
-        "PERQUIMANS",
-        "WARREN"
+        "PERQUIMANS"
       ]
     },
     "new_lines": {
@@ -2015,9 +2025,9 @@
       ]
     },
     "gap": {
-      "senate_old_minus_new": 7.92,
+      "senate_old_minus_new": 8.71,
       "pres2024_old_minus_new": 8.55,
-      "pres2024_counted_old_minus_new": 9.24
+      "pres2024_counted_old_minus_new": 10.17
     },
     "old_lines_unavailable_reason": null
   },
